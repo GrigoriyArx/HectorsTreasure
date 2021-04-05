@@ -1,0 +1,52 @@
+[16:31:13.618667] [Import] [info] (th=12696) Log level for 'Import' set to 'info'
+[16:31:13.618771] [Import] [info] (th=12696) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_part1\Ground1_4-0.obj
+[16:31:14.290753] [Import] [info] (th=12696) Imported scene tree:
+name: "Ground1_4-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000024BAB9D98B0"
+	 name: "defaultobject"
+	 numVertices: "253765"
+	 numFaces: "106328"
+	
+	
+
+[16:31:14.290819] [Import] [info] (th=12696) File loaded successfully
+[16:31:14.290876] [Import] [info] (th=12696) Meshes count: 1
+[16:31:14.290931] [Import] [info] (th=12696) Materials count: 2
+[16:31:14.291188] [Import] [warning] (th=12696) It seems that scene structure is different
+[17:02:44.896656] [Import] [info] (th=12696) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_part1\Ground1_4-0.obj
+[17:02:45.719540] [Import] [info] (th=12696) Imported scene tree:
+name: "Ground1_4-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000024BAB9D5E40"
+	 name: "defaultobject"
+	 numVertices: "303437"
+	 numFaces: "127528"
+	
+	
+
+[17:02:45.719587] [Import] [info] (th=12696) File loaded successfully
+[17:02:45.719621] [Import] [info] (th=12696) Meshes count: 1
+[17:02:45.719655] [Import] [info] (th=12696) Materials count: 2
+[17:02:45.719807] [Import] [warning] (th=12696) It seems that scene structure is different
+[17:06:29.906038] [Import] [info] (th=12696) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Stuff\Lift-cab-0.obj
+[17:06:29.931661] [Import] [info] (th=12696) Imported scene tree:
+name: "Lift-cab-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000024BAB9D33C0"
+	 name: "defaultobject"
+	 numVertices: "8644"
+	 numFaces: "3264"
+	
+	
+
+[17:06:29.931704] [Import] [info] (th=12696) File loaded successfully
+[17:06:29.931738] [Import] [info] (th=12696) Meshes count: 1
+[17:06:29.931770] [Import] [info] (th=12696) Materials count: 2
+[17:06:29.931909] [Import] [warning] (th=12696) It seems that scene structure is different
