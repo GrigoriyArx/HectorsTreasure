@@ -1,0 +1,42 @@
+[13:40:43.461869] [Import] [info] (th=19808) Log level for 'Import' set to 'info'
+[13:40:43.461967] [Import] [info] (th=19808) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Stuff\Coin.fbx
+[13:40:43.581960] [Import] [info] (th=19808) Imported scene tree:
+name: "RootNode"
+
+	name: "Coin3"
+	numMeshes: 1
+	 addr: "000001CC55581B40"
+	 name: "Coin-0"
+	 numVertices: "78"
+	 numFaces: "40"
+	
+	
+	name: "Coin1"
+	numMeshes: 1
+	 addr: "000001CC55584070"
+	 name: "Coin-0.001"
+	 numVertices: "74"
+	 numFaces: "40"
+	
+	
+	name: "Coin2"
+	numMeshes: 1
+	 addr: "000001CC5557F0C0"
+	 name: "Coin-0.002"
+	 numVertices: "77"
+	 numFaces: "40"
+	
+	
+	name: "Coin4"
+	numMeshes: 1
+	 addr: "000001CC555845C0"
+	 name: "Coin-0.003"
+	 numVertices: "71"
+	 numFaces: "40"
+	
+	
+
+[13:40:43.582005] [Import] [info] (th=19808) File loaded successfully
+[13:40:43.582046] [Import] [info] (th=19808) Meshes count: 4
+[13:40:43.582081] [Import] [info] (th=19808) Materials count: 1
+[13:40:43.583972] [Import] [info] (th=19808) Textures count (imported): 1

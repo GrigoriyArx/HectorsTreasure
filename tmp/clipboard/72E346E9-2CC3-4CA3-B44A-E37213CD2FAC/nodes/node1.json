@@ -1,0 +1,1715 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "228E7BDC-9270-4B5C-9F12-34018EA4BF40"
+            },
+            "name": "Column",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        3.299999952316284,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        3.299999952316284,
+                        1.6835179328918458,
+                        0.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        },
+        "children": [
+            "9F5A19E6-94E1-4D39-B703-06A698A14878",
+            "874D4DFD-A406-4977-A018-9C1645974227",
+            "1193EABC-D6B5-425A-8733-3C686FD3AF07"
+        ]
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "9F5A19E6-94E1-4D39-B703-06A698A14878"
+            },
+            "name": "Coin",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        3.299999952316284,
+                        1.6835179328918458,
+                        0.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "RootNode",
+                "importedName": "RootNode",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9ABCCCE2-BA57-4D07-A896-EFDDAED11164"
+        },
+        "is_asset_root": true,
+        "asset_name": "Coin",
+        "children": [
+            "4BC104F3-6EAC-4B25-81F0-A81A4DFF1BD6",
+            "EA19A645-F1E7-42C8-937E-60B91EB9978F",
+            "13237172-CD0B-4921-B85F-B303FA0C7675",
+            "BCDAB610-A565-4A61-9543-6E3FB4A5D28B",
+            "4C9501CA-DE56-43ED-B67C-57FB7EA55ED5",
+            "6C42E1B3-8FE0-4607-AAF5-A4AD24E152C7"
+        ]
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "4BC104F3-6EAC-4B25-81F0-A81A4DFF1BD6"
+            },
+            "name": "Collider",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "colliders": [
+                {
+                    "@class": "BaseComponentCollider",
+                    "colliderId": {
+                        "uuid": "C37863FF-36D2-485D-A2E4-6BD3D768B303"
+                    }
+                }
+            ],
+            "rigidBody": {
+                "@class": "BaseComponentPhysBody",
+                "rigidBodyId": {
+                    "uuid": "B1A0CC85-7209-4540-B6F6-F81CE7CE10CE"
+                },
+                "isEnabled": true
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        0.5,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.5,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.5,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        0.5,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.5,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.5,
+                        0.0,
+                        3.299999952316284,
+                        1.6835179328918458,
+                        0.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9ABCCCE2-BA57-4D07-A896-EFDDAED11164"
+        },
+        "is_asset_root": false
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "EA19A645-F1E7-42C8-937E-60B91EB9978F"
+            },
+            "name": "Coin3",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "02215074-3721-403A-B387-10BE97E4947B"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "1E0DDD74-F9C6-482B-B657-CF756F60F391"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920928955078126e-7,
+                        0.9999999403953552,
+                        0.0,
+                        0.0,
+                        -0.9999999403953552,
+                        -1.1920928955078126e-7,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920928955078126e-7,
+                        0.9999999403953552,
+                        0.0,
+                        0.0,
+                        -0.9999999403953552,
+                        -1.1920928955078126e-7,
+                        0.0,
+                        3.299999952316284,
+                        1.6835179328918458,
+                        0.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Coin3",
+                "importedName": "Coin3",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9ABCCCE2-BA57-4D07-A896-EFDDAED11164"
+        },
+        "is_asset_root": false
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "13237172-CD0B-4921-B85F-B303FA0C7675"
+            },
+            "name": "Coin1",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "55F6EBE6-D3E7-47F5-A81F-CA606CEB9F53"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "1E0DDD74-F9C6-482B-B657-CF756F60F391"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920928955078126e-7,
+                        0.9999999403953552,
+                        0.0,
+                        0.0,
+                        -0.9999999403953552,
+                        -1.1920928955078126e-7,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920928955078126e-7,
+                        0.9999999403953552,
+                        0.0,
+                        0.0,
+                        -0.9999999403953552,
+                        -1.1920928955078126e-7,
+                        0.0,
+                        3.299999952316284,
+                        1.6835179328918458,
+                        0.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Coin1",
+                "importedName": "Coin1",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9ABCCCE2-BA57-4D07-A896-EFDDAED11164"
+        },
+        "is_asset_root": false
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "BCDAB610-A565-4A61-9543-6E3FB4A5D28B"
+            },
+            "name": "Coin2",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "6D4706D6-E0CB-4588-B491-83770AA9AC82"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "1E0DDD74-F9C6-482B-B657-CF756F60F391"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920928955078126e-7,
+                        0.9999999403953552,
+                        0.0,
+                        0.0,
+                        -0.9999999403953552,
+                        -1.1920928955078126e-7,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920928955078126e-7,
+                        0.9999999403953552,
+                        0.0,
+                        0.0,
+                        -0.9999999403953552,
+                        -1.1920928955078126e-7,
+                        0.0,
+                        3.299999952316284,
+                        1.6835179328918458,
+                        0.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Coin2",
+                "importedName": "Coin2",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9ABCCCE2-BA57-4D07-A896-EFDDAED11164"
+        },
+        "is_asset_root": false
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "4C9501CA-DE56-43ED-B67C-57FB7EA55ED5"
+            },
+            "name": "Coin4",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "3A231197-1682-464B-A986-428AB10AF019"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "1E0DDD74-F9C6-482B-B657-CF756F60F391"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920928955078126e-7,
+                        0.9999999403953552,
+                        0.0,
+                        0.0,
+                        -0.9999999403953552,
+                        -1.1920928955078126e-7,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920928955078126e-7,
+                        0.9999999403953552,
+                        0.0,
+                        0.0,
+                        -0.9999999403953552,
+                        -1.1920928955078126e-7,
+                        0.0,
+                        3.299999952316284,
+                        1.6835179328918458,
+                        0.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Coin4",
+                "importedName": "Coin4",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9ABCCCE2-BA57-4D07-A896-EFDDAED11164"
+        },
+        "is_asset_root": false
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "6C42E1B3-8FE0-4607-AAF5-A4AD24E152C7"
+            },
+            "name": "PickUp",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "timeline": {
+                "@class": "BaseComponentTimeline",
+                "timelineId": {
+                    "uuid": "D15F12A8-3846-438F-9006-0232912E7210"
+                }
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        3.299999952316284,
+                        1.6835179328918458,
+                        0.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9ABCCCE2-BA57-4D07-A896-EFDDAED11164"
+        },
+        "is_asset_root": false
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "874D4DFD-A406-4977-A018-9C1645974227"
+            },
+            "name": "Coin 2",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.5,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        3.299999952316284,
+                        3.1835179328918459,
+                        0.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "RootNode",
+                "importedName": "RootNode",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9ABCCCE2-BA57-4D07-A896-EFDDAED11164"
+        },
+        "is_asset_root": true,
+        "asset_name": "Coin",
+        "children": [
+            "C9311D12-4656-4A09-A3BE-3BFC9F835F31",
+            "8E203CA7-A9FF-40EF-9C45-D75FE1AC48AB",
+            "37ECF75E-6A45-4AC1-A4D9-EBDECDCD7038",
+            "6308F86E-FEBF-4844-8F0E-AE1A20AF2B24",
+            "9D95080B-BE56-4DC9-B288-6AF4F21F253A",
+            "387D2B60-BFAB-4868-B248-C937927C495E"
+        ]
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "C9311D12-4656-4A09-A3BE-3BFC9F835F31"
+            },
+            "name": "Collider",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "colliders": [
+                {
+                    "@class": "BaseComponentCollider",
+                    "colliderId": {
+                        "uuid": "970530C5-8AC3-4059-9900-4BAF36AF4BA2"
+                    }
+                }
+            ],
+            "rigidBody": {
+                "@class": "BaseComponentPhysBody",
+                "rigidBodyId": {
+                    "uuid": "72AD3E07-C291-4AE3-B6FD-925B2F52294D"
+                },
+                "isEnabled": true
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        0.5,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.5,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.5,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        0.5,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.5,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.5,
+                        0.0,
+                        3.299999952316284,
+                        3.1835179328918459,
+                        0.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9ABCCCE2-BA57-4D07-A896-EFDDAED11164"
+        },
+        "is_asset_root": false
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "8E203CA7-A9FF-40EF-9C45-D75FE1AC48AB"
+            },
+            "name": "Coin3",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "02215074-3721-403A-B387-10BE97E4947B"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "DFDE80CF-58E0-4594-8327-0DB62C4D2D30"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920928955078126e-7,
+                        0.9999999403953552,
+                        0.0,
+                        0.0,
+                        -0.9999999403953552,
+                        -1.1920928955078126e-7,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920928955078126e-7,
+                        0.9999999403953552,
+                        0.0,
+                        0.0,
+                        -0.9999999403953552,
+                        -1.1920928955078126e-7,
+                        0.0,
+                        3.299999952316284,
+                        3.1835179328918459,
+                        0.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Coin3",
+                "importedName": "Coin3",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9ABCCCE2-BA57-4D07-A896-EFDDAED11164"
+        },
+        "is_asset_root": false
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "37ECF75E-6A45-4AC1-A4D9-EBDECDCD7038"
+            },
+            "name": "Coin1",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "55F6EBE6-D3E7-47F5-A81F-CA606CEB9F53"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "DFDE80CF-58E0-4594-8327-0DB62C4D2D30"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920928955078126e-7,
+                        0.9999999403953552,
+                        0.0,
+                        0.0,
+                        -0.9999999403953552,
+                        -1.1920928955078126e-7,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920928955078126e-7,
+                        0.9999999403953552,
+                        0.0,
+                        0.0,
+                        -0.9999999403953552,
+                        -1.1920928955078126e-7,
+                        0.0,
+                        3.299999952316284,
+                        3.1835179328918459,
+                        0.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Coin1",
+                "importedName": "Coin1",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9ABCCCE2-BA57-4D07-A896-EFDDAED11164"
+        },
+        "is_asset_root": false
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "6308F86E-FEBF-4844-8F0E-AE1A20AF2B24"
+            },
+            "name": "Coin2",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "6D4706D6-E0CB-4588-B491-83770AA9AC82"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "DFDE80CF-58E0-4594-8327-0DB62C4D2D30"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920928955078126e-7,
+                        0.9999999403953552,
+                        0.0,
+                        0.0,
+                        -0.9999999403953552,
+                        -1.1920928955078126e-7,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920928955078126e-7,
+                        0.9999999403953552,
+                        0.0,
+                        0.0,
+                        -0.9999999403953552,
+                        -1.1920928955078126e-7,
+                        0.0,
+                        3.299999952316284,
+                        3.1835179328918459,
+                        0.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Coin2",
+                "importedName": "Coin2",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9ABCCCE2-BA57-4D07-A896-EFDDAED11164"
+        },
+        "is_asset_root": false
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "9D95080B-BE56-4DC9-B288-6AF4F21F253A"
+            },
+            "name": "Coin4",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "3A231197-1682-464B-A986-428AB10AF019"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "DFDE80CF-58E0-4594-8327-0DB62C4D2D30"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920928955078126e-7,
+                        0.9999999403953552,
+                        0.0,
+                        0.0,
+                        -0.9999999403953552,
+                        -1.1920928955078126e-7,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920928955078126e-7,
+                        0.9999999403953552,
+                        0.0,
+                        0.0,
+                        -0.9999999403953552,
+                        -1.1920928955078126e-7,
+                        0.0,
+                        3.299999952316284,
+                        3.1835179328918459,
+                        0.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Coin4",
+                "importedName": "Coin4",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9ABCCCE2-BA57-4D07-A896-EFDDAED11164"
+        },
+        "is_asset_root": false
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "387D2B60-BFAB-4868-B248-C937927C495E"
+            },
+            "name": "PickUp",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "timeline": {
+                "@class": "BaseComponentTimeline",
+                "timelineId": {
+                    "uuid": "D8A6E5F5-EAD6-4BC8-9EEE-86A017E3F032"
+                }
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        3.299999952316284,
+                        3.1835179328918459,
+                        0.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9ABCCCE2-BA57-4D07-A896-EFDDAED11164"
+        },
+        "is_asset_root": false
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "1193EABC-D6B5-425A-8733-3C686FD3AF07"
+            },
+            "name": "Coin 3",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        3.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        3.299999952316284,
+                        4.683517932891846,
+                        0.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "RootNode",
+                "importedName": "RootNode",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9ABCCCE2-BA57-4D07-A896-EFDDAED11164"
+        },
+        "is_asset_root": true,
+        "asset_name": "Coin",
+        "children": [
+            "3ABCCE68-EAA6-4E5A-A10A-8A34C1FEB101",
+            "D91D89B7-4EDD-4426-B10C-D097090D7E77",
+            "C824709F-6A62-4FE1-AA3C-0AF14FC83756",
+            "8AAF6DC1-1DBE-43BA-9571-D42B93ACE178",
+            "F31BAF7B-A229-4FF5-BE72-A0185F7C3961",
+            "BCD6927C-0998-4252-B336-0439CFB90570"
+        ]
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "3ABCCE68-EAA6-4E5A-A10A-8A34C1FEB101"
+            },
+            "name": "Collider",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "colliders": [
+                {
+                    "@class": "BaseComponentCollider",
+                    "colliderId": {
+                        "uuid": "07A7FEFB-C093-4A68-BFB4-75E5E6D2E479"
+                    }
+                }
+            ],
+            "rigidBody": {
+                "@class": "BaseComponentPhysBody",
+                "rigidBodyId": {
+                    "uuid": "1C3CE98D-1504-4D1D-8320-A2BEAE71B7D8"
+                },
+                "isEnabled": true
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        0.5,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.5,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.5,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        0.5,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.5,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.5,
+                        0.0,
+                        3.299999952316284,
+                        4.683517932891846,
+                        0.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9ABCCCE2-BA57-4D07-A896-EFDDAED11164"
+        },
+        "is_asset_root": false
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "D91D89B7-4EDD-4426-B10C-D097090D7E77"
+            },
+            "name": "Coin3",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "02215074-3721-403A-B387-10BE97E4947B"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "EFB48715-F735-4077-842C-933942CC1F27"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920928955078126e-7,
+                        0.9999999403953552,
+                        0.0,
+                        0.0,
+                        -0.9999999403953552,
+                        -1.1920928955078126e-7,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920928955078126e-7,
+                        0.9999999403953552,
+                        0.0,
+                        0.0,
+                        -0.9999999403953552,
+                        -1.1920928955078126e-7,
+                        0.0,
+                        3.299999952316284,
+                        4.683517932891846,
+                        0.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Coin3",
+                "importedName": "Coin3",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9ABCCCE2-BA57-4D07-A896-EFDDAED11164"
+        },
+        "is_asset_root": false
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "C824709F-6A62-4FE1-AA3C-0AF14FC83756"
+            },
+            "name": "Coin1",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "55F6EBE6-D3E7-47F5-A81F-CA606CEB9F53"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "EFB48715-F735-4077-842C-933942CC1F27"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920928955078126e-7,
+                        0.9999999403953552,
+                        0.0,
+                        0.0,
+                        -0.9999999403953552,
+                        -1.1920928955078126e-7,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920928955078126e-7,
+                        0.9999999403953552,
+                        0.0,
+                        0.0,
+                        -0.9999999403953552,
+                        -1.1920928955078126e-7,
+                        0.0,
+                        3.299999952316284,
+                        4.683517932891846,
+                        0.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Coin1",
+                "importedName": "Coin1",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9ABCCCE2-BA57-4D07-A896-EFDDAED11164"
+        },
+        "is_asset_root": false
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "8AAF6DC1-1DBE-43BA-9571-D42B93ACE178"
+            },
+            "name": "Coin2",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "6D4706D6-E0CB-4588-B491-83770AA9AC82"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "EFB48715-F735-4077-842C-933942CC1F27"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920928955078126e-7,
+                        0.9999999403953552,
+                        0.0,
+                        0.0,
+                        -0.9999999403953552,
+                        -1.1920928955078126e-7,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920928955078126e-7,
+                        0.9999999403953552,
+                        0.0,
+                        0.0,
+                        -0.9999999403953552,
+                        -1.1920928955078126e-7,
+                        0.0,
+                        3.299999952316284,
+                        4.683517932891846,
+                        0.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Coin2",
+                "importedName": "Coin2",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9ABCCCE2-BA57-4D07-A896-EFDDAED11164"
+        },
+        "is_asset_root": false
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "F31BAF7B-A229-4FF5-BE72-A0185F7C3961"
+            },
+            "name": "Coin4",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "3A231197-1682-464B-A986-428AB10AF019"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "EFB48715-F735-4077-842C-933942CC1F27"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920928955078126e-7,
+                        0.9999999403953552,
+                        0.0,
+                        0.0,
+                        -0.9999999403953552,
+                        -1.1920928955078126e-7,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920928955078126e-7,
+                        0.9999999403953552,
+                        0.0,
+                        0.0,
+                        -0.9999999403953552,
+                        -1.1920928955078126e-7,
+                        0.0,
+                        3.299999952316284,
+                        4.683517932891846,
+                        0.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Coin4",
+                "importedName": "Coin4",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9ABCCCE2-BA57-4D07-A896-EFDDAED11164"
+        },
+        "is_asset_root": false
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "BCD6927C-0998-4252-B336-0439CFB90570"
+            },
+            "name": "PickUp",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "timeline": {
+                "@class": "BaseComponentTimeline",
+                "timelineId": {
+                    "uuid": "0F4BBAEE-2405-4603-8CBE-27215CDF6861"
+                }
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        3.299999952316284,
+                        4.683517932891846,
+                        0.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9ABCCCE2-BA57-4D07-A896-EFDDAED11164"
+        },
+        "is_asset_root": false
+    }
+]

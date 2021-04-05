@@ -1,0 +1,11 @@
+{
+    "@class": "SoundSample",
+    "id": {
+        "uuid": "97B60B66-D5C2-43F6-91DE-E60A8C5D3F35"
+    },
+    "name": "Ding1.wav",
+    "filePath": "Ding1.wav",
+    "duration": 826.8707275390625,
+    "channels": 2,
+    "frequence": 44100
+}

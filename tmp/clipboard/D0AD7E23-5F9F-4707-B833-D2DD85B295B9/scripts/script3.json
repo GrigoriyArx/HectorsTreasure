@@ -1,0 +1,241 @@
+{
+    "@class": "TimeLineScript",
+    "id": {
+        "uuid": "E2DF0C05-0501-4CF6-A759-8421F4FBB2FB"
+    },
+    "name": "Animation",
+    "enableOnAwake": false,
+    "loop": false,
+    "jumpToFirstFrameAtEnd": false,
+    "speed": 1.0,
+    "weight": 1.0,
+    "loopStartTime": 0,
+    "loopDuration": 0,
+    "is_imported": false,
+    "type": "user",
+    "scripts": {
+        "@class": "StdListRuntimeScript",
+        "list": [
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "E6A6E5A4-FEA6-4824-A6AC-18ABA9784FFD"
+                },
+                "name": "Coin1",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "731CBC15-29BD-4494-AE40-FBBCF15EACFA"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 2,
+                        "name": "Coin 3",
+                        "subaddress": {
+                            "@class": "NodeRelativeAddressBase",
+                            "index": 2,
+                            "name": "Coin1"
+                        }
+                    }
+                },
+                "animation": {
+                    "uuid": "FCA5C32B-9D85-4883-881A-CE0ADB09CCBD"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "5618D232-BC90-491E-8B67-B40F6D273810"
+                },
+                "name": "Coin2",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "31CED08C-C0BA-413A-B92F-40B1DF3013A8"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 2,
+                        "name": "Coin 3",
+                        "subaddress": {
+                            "@class": "NodeRelativeAddressBase",
+                            "index": 3,
+                            "name": "Coin2"
+                        }
+                    }
+                },
+                "animation": {
+                    "uuid": "EFD0689B-A408-42C7-B1B3-707ABA9F361B"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "24CA8E72-1F68-4894-9758-CC6DFD81D05C"
+                },
+                "name": "Coin3",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "4F64147F-0127-4D3F-92D3-955A6E0DB649"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 2,
+                        "name": "Coin 3",
+                        "subaddress": {
+                            "@class": "NodeRelativeAddressBase",
+                            "index": 1,
+                            "name": "Coin3"
+                        }
+                    }
+                },
+                "animation": {
+                    "uuid": "2C6D8DFB-60E8-46F0-882A-C1FC4811A8A4"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "2A54E5CE-B6A3-44C2-BB5F-F6A868A9ECEB"
+                },
+                "name": "Coin4",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "11F33190-504B-4CAD-B24A-9936A99C1437"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 2,
+                        "name": "Coin 3",
+                        "subaddress": {
+                            "@class": "NodeRelativeAddressBase",
+                            "index": 4,
+                            "name": "Coin4"
+                        }
+                    }
+                },
+                "animation": {
+                    "uuid": "A3658C33-D907-4D4B-B193-A856429BE437"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "E683CD71-09BB-47E0-AB0E-B3DEC82C02BE"
+                },
+                "name": "Collider",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "6ADF37EF-099A-4DDC-BCC8-10EDD4553F58"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 2,
+                        "name": "Coin 3",
+                        "subaddress": {
+                            "@class": "NodeRelativeAddressBase",
+                            "index": 0,
+                            "name": "Collider"
+                        }
+                    }
+                },
+                "animation": {
+                    "uuid": "9D01D792-30A9-455D-96A0-0A43CDA053D6"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "212FEDEA-3FD3-4161-ADE5-DCD7EA9FA7A4"
+                },
+                "name": "Coin",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "F06DD52F-FDBC-426E-93EE-F973BFBB84E5"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 2,
+                        "name": "Coin 3"
+                    }
+                },
+                "animation": {
+                    "uuid": "6263975B-46C6-4ED4-A05B-FB5F09FC6229"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "26D11F21-16FB-4E2F-8366-771D07CEEF4E"
+                },
+                "name": "Master Sound",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink"
+                },
+                "animation": {
+                    "uuid": "56541CB7-4396-4D0A-90DF-47CA2F429D2F"
+                },
+                "AnimationType": "masterSound",
+                "is_imported": false,
+                "isEnabled": true
+            }
+        ]
+    },
+    "triggers": [
+        {
+            "@class": "CollisionTrigger",
+            "id": {
+                "uuid": "B406FD5F-B790-44F5-8514-12FE8C3B380D"
+            },
+            "ownerScriptId": {
+                "uuid": "E2DF0C05-0501-4CF6-A759-8421F4FBB2FB"
+            },
+            "logicOperation": 0,
+            "resultType": 0,
+            "isInverted": false,
+            "eventType": "in",
+            "targetBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "2ECB3BA4-F2F4-42DD-86E8-322283040C6C"
+                }
+            },
+            "zoneBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "6ADF37EF-099A-4DDC-BCC8-10EDD4553F58"
+                }
+            },
+            "allowed": false
+        }
+    ]
+}
