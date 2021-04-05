@@ -1,0 +1,103 @@
+[11:02:19.597570] [Import] [info] (th=18908) Log level for 'Import' set to 'info'
+[11:02:19.597668] [Import] [info] (th=18908) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\_test\Ground-0.obj
+[11:02:19.699030] [Import] [info] (th=18908) Imported scene tree:
+name: "Ground-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "00000226B1F8BBD0"
+	 name: "defaultobject"
+	 numVertices: "41869"
+	 numFaces: "16360"
+	
+	
+
+[11:02:19.699073] [Import] [info] (th=18908) File loaded successfully
+[11:02:19.699106] [Import] [info] (th=18908) Meshes count: 1
+[11:02:19.699139] [Import] [info] (th=18908) Materials count: 2
+[11:02:19.719935] [Import] [warning] (th=18908) It seems that scene structure is different
+[11:06:08.816498] [Import] [info] (th=18908) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\_test\Ground-0-0.obj
+[11:06:08.896760] [Import] [info] (th=18908) Imported scene tree:
+name: "Ground-0-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "00000226B1F8A690"
+	 name: "defaultobject"
+	 numVertices: "41869"
+	 numFaces: "16360"
+	
+	
+
+[11:06:08.896808] [Import] [info] (th=18908) File loaded successfully
+[11:06:08.896842] [Import] [info] (th=18908) Meshes count: 1
+[11:06:08.896875] [Import] [info] (th=18908) Materials count: 2
+[11:06:08.897021] [Import] [warning] (th=18908) It seems that scene structure is different
+[11:06:14.514155] [Import] [info] (th=18908) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\_test\Ground-0.obj
+[11:06:14.593236] [Import] [info] (th=18908) Imported scene tree:
+name: "Ground-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "00000226B1F8D660"
+	 name: "defaultobject"
+	 numVertices: "41869"
+	 numFaces: "16360"
+	
+	
+
+[11:06:14.593282] [Import] [info] (th=18908) File loaded successfully
+[11:06:14.593321] [Import] [info] (th=18908) Meshes count: 1
+[11:06:14.593354] [Import] [info] (th=18908) Materials count: 2
+[11:06:14.593496] [Import] [warning] (th=18908) It seems that scene structure is different
+[11:22:04.134611] [Import] [info] (th=18908) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\_test\Ground_02-0.obj
+[11:22:04.144053] [Import] [info] (th=18908) Imported scene tree:
+name: "Ground_02-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "00000226B1F8ABE0"
+	 name: "defaultobject"
+	 numVertices: "420"
+	 numFaces: "140"
+	
+	
+
+[11:22:04.144096] [Import] [info] (th=18908) File loaded successfully
+[11:22:04.144129] [Import] [info] (th=18908) Meshes count: 1
+[11:22:04.144162] [Import] [info] (th=18908) Materials count: 2
+[11:22:04.144300] [Import] [warning] (th=18908) It seems that scene structure is different
+[11:22:09.529298] [Import] [info] (th=18908) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\_test\Ground_02-1.obj
+[11:22:09.641013] [Import] [info] (th=18908) Imported scene tree:
+name: "Ground_02-1.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "00000226B1F8B680"
+	 name: "defaultobject"
+	 numVertices: "55425"
+	 numFaces: "21844"
+	
+	
+
+[11:22:09.641057] [Import] [info] (th=18908) File loaded successfully
+[11:22:09.641091] [Import] [info] (th=18908) Meshes count: 1
+[11:22:09.641123] [Import] [info] (th=18908) Materials count: 2
+[11:22:09.641261] [Import] [warning] (th=18908) It seems that scene structure is different
+[11:22:18.030301] [Import] [info] (th=18908) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\_test\Ground_02-0.obj
+[11:22:18.039053] [Import] [info] (th=18908) Imported scene tree:
+name: "Ground_02-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "00000226B1F8E650"
+	 name: "defaultobject"
+	 numVertices: "420"
+	 numFaces: "140"
+	
+	
+
+[11:22:18.039097] [Import] [info] (th=18908) File loaded successfully
+[11:22:18.039131] [Import] [info] (th=18908) Meshes count: 1
+[11:22:18.039164] [Import] [info] (th=18908) Materials count: 2
+[11:22:18.039454] [Import] [info] (th=18908) Textures count (imported): 1

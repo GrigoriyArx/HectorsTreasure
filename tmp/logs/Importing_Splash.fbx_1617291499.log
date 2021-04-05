@@ -1,0 +1,72 @@
+[18:38:19.427278] [Import] [info] (th=16932) Log level for 'Import' set to 'info'
+[18:38:19.427360] [Import] [info] (th=16932) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Splash.fbx
+[18:38:19.431726] [Import] [info] (th=16932) Imported scene tree:
+name: "RootNode"
+
+	name: "River.003"
+	numMeshes: 1
+	 addr: "00000299B7EF71C0"
+	 name: "Splash"
+	 numVertices: "672"
+	 numFaces: "336"
+	
+	
+	name: "Armature"
+	
+		name: "Splash1"
+		
+		name: "Splash2"
+		
+		name: "Splash3"
+		
+		name: "Splash4"
+		
+
+[18:38:19.431768] [Import] [info] (th=16932) File loaded successfully
+[18:38:19.431802] [Import] [info] (th=16932) Meshes count: 1
+[18:38:19.431834] [Import] [info] (th=16932) Materials count: 1
+[18:38:19.431994] [Import] [info] (th=16932) Textures count (imported): 0
+[18:38:38.087389] [Import] [info] (th=16932) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Splash.fbx
+[18:38:38.090637] [Import] [info] (th=16932) Imported scene tree:
+name: "RootNode"
+
+	name: "River.003"
+	numMeshes: 1
+	 addr: "00000299B7EFA190"
+	 name: "Splash"
+	 numVertices: "672"
+	 numFaces: "336"
+	
+	
+	name: "Armature"
+	
+		name: "Splash1"
+		
+		name: "Splash2"
+		
+		name: "Splash3"
+		
+		name: "Splash4"
+		
+
+[18:38:38.090677] [Import] [info] (th=16932) File loaded successfully
+[18:38:38.090710] [Import] [info] (th=16932) Meshes count: 1
+[18:38:38.090743] [Import] [info] (th=16932) Materials count: 1
+[18:38:38.090847] [Import] [info] (th=16932) Textures count (imported): 0
+[18:50:35.962281] [Import] [info] (th=16932) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_part1\Ground1_2-0.obj
+[18:50:36.107950] [Import] [info] (th=16932) Imported scene tree:
+name: "Ground1_2-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "00000299B7EF81B0"
+	 name: "defaultobject"
+	 numVertices: "69855"
+	 numFaces: "28066"
+	
+	
+
+[18:50:36.108026] [Import] [info] (th=16932) File loaded successfully
+[18:50:36.108071] [Import] [info] (th=16932) Meshes count: 1
+[18:50:36.108134] [Import] [info] (th=16932) Materials count: 2
+[18:50:36.108304] [Import] [warning] (th=16932) It seems that scene structure is different

@@ -1,0 +1,187 @@
+[14:17:25.125317] [Import] [info] (th=15356) Log level for 'Import' set to 'info'
+[14:17:25.125405] [Import] [info] (th=15356) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\Char\Mixamo_animations\Idle.fbx
+[14:17:25.202001] [Import] [info] (th=15356) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+
+[14:17:25.202048] [Import] [info] (th=15356) File loaded successfully
+[14:17:25.202088] [Import] [info] (th=15356) Meshes count: 0
+[14:17:25.202127] [Import] [info] (th=15356) Materials count: 0
+[14:20:32.011415] [Import] [info] (th=15356) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\Char\Mixamo_animations\Idle_Alt3.fbx
+[14:20:32.017014] [Import] [info] (th=15356) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+
+[14:20:32.017057] [Import] [info] (th=15356) File loaded successfully
+[14:20:32.017097] [Import] [info] (th=15356) Meshes count: 0
+[14:20:32.017133] [Import] [info] (th=15356) Materials count: 0
+[14:20:32.018084] [Import] [error] (th=15356) Cannot find node: G_male_base_armature
+[14:20:32.018159] [Import] [error] (th=15356) Cannot find node: arm.L
+[14:20:32.018232] [Import] [error] (th=15356) Cannot find node: arm.R
+[14:20:32.018304] [Import] [error] (th=15356) Cannot find node: chest
+[14:20:32.018377] [Import] [error] (th=15356) Cannot find node: chest_bottom
+[14:20:32.018449] [Import] [error] (th=15356) Cannot find node: foot.L
+[14:20:32.018521] [Import] [error] (th=15356) Cannot find node: foot.R
+[14:20:32.018770] [Import] [error] (th=15356) Cannot find node: forearm.L
+[14:20:32.018904] [Import] [error] (th=15356) Cannot find node: forearm.R
+[14:20:32.019123] [Import] [error] (th=15356) Cannot find node: leg.L
+[14:20:32.019267] [Import] [error] (th=15356) Cannot find node: leg.R
+[14:20:32.019435] [Import] [error] (th=15356) Cannot find node: leg_up.L
+[14:20:32.019623] [Import] [error] (th=15356) Cannot find node: leg_up.R
+[14:20:32.019797] [Import] [error] (th=15356) Cannot find node: neck
+[14:20:32.019932] [Import] [error] (th=15356) Cannot find node: shoulder.L
+[14:20:32.020068] [Import] [error] (th=15356) Cannot find node: shoulder.R
+[14:20:32.020205] [Import] [error] (th=15356) Cannot find node: spine
+[14:20:32.020274] [Import] [error] (th=15356) File's animations are incompatible with the selected MANU's node
+[14:20:40.548479] [Import] [info] (th=15356) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\Char\Mixamo_animations\Idle_Alt3.fbx
+[14:20:40.555858] [Import] [info] (th=15356) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+
+[14:20:40.555933] [Import] [info] (th=15356) File loaded successfully
+[14:20:40.555992] [Import] [info] (th=15356) Meshes count: 0
+[14:20:40.556052] [Import] [info] (th=15356) Materials count: 0

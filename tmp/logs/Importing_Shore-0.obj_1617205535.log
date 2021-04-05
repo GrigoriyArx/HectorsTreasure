@@ -1,0 +1,18 @@
+[18:45:35.769564] [Import] [info] (th=24964) Log level for 'Import' set to 'info'
+[18:45:35.769650] [Import] [info] (th=24964) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Stuff\Shore-0.obj
+[18:45:35.779204] [Import] [info] (th=24964) Imported scene tree:
+name: "Shore-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "00000201AA913B00"
+	 name: "defaultobject"
+	 numVertices: "1477"
+	 numFaces: "520"
+	
+	
+
+[18:45:35.779246] [Import] [info] (th=24964) File loaded successfully
+[18:45:35.779279] [Import] [info] (th=24964) Meshes count: 1
+[18:45:35.779312] [Import] [info] (th=24964) Materials count: 2
+[18:45:35.806244] [Import] [info] (th=24964) Textures count (imported): 1

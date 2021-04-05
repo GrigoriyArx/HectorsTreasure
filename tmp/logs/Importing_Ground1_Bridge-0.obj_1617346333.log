@@ -1,0 +1,18 @@
+[09:52:13.822128] [Import] [info] (th=1552) Log level for 'Import' set to 'info'
+[09:52:13.822419] [Import] [info] (th=1552) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_part1\Ground1_Bridge-0.obj
+[09:52:13.918403] [Import] [info] (th=1552) Imported scene tree:
+name: "Ground1_Bridge-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "000001B5410BAE00"
+	 name: "defaultobject"
+	 numVertices: "15693"
+	 numFaces: "5502"
+	
+	
+
+[09:52:13.918446] [Import] [info] (th=1552) File loaded successfully
+[09:52:13.918479] [Import] [info] (th=1552) Meshes count: 1
+[09:52:13.918512] [Import] [info] (th=1552) Materials count: 2
+[09:52:13.920744] [Import] [info] (th=1552) Textures count (imported): 1

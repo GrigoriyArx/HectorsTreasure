@@ -1,0 +1,297 @@
+[09:52:27.973225] [Import] [info] (th=15944) Log level for 'Import' set to 'info'
+[09:52:27.973312] [Import] [info] (th=15944) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_part1\Ground1_3-0.obj
+[09:52:28.239332] [Import] [info] (th=15944) Imported scene tree:
+name: "Ground1_3-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000015A1BB3A5A0"
+	 name: "defaultobject"
+	 numVertices: "123968"
+	 numFaces: "49532"
+	
+	
+
+[09:52:28.239378] [Import] [info] (th=15944) File loaded successfully
+[09:52:28.239413] [Import] [info] (th=15944) Meshes count: 1
+[09:52:28.239447] [Import] [info] (th=15944) Materials count: 2
+[09:52:28.239772] [Import] [info] (th=15944) Textures count (imported): 1
+[10:41:50.858539] [Import] [info] (th=15944) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Stuff\KillerPilar-0.obj
+[10:41:50.869432] [Import] [info] (th=15944) Imported scene tree:
+name: "KillerPilar-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000015A1BB3B590"
+	 name: "defaultobject"
+	 numVertices: "2351"
+	 numFaces: "836"
+	
+	
+
+[10:41:50.869477] [Import] [info] (th=15944) File loaded successfully
+[10:41:50.869513] [Import] [info] (th=15944) Meshes count: 1
+[10:41:50.869548] [Import] [info] (th=15944) Materials count: 2
+[10:41:50.869807] [Import] [info] (th=15944) Textures count (imported): 1
+[11:16:18.642661] [Import] [info] (th=15944) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Stuff\Blood_Ani.fbx
+[11:16:18.710043] [Import] [info] (th=15944) Imported scene tree:
+name: "RootNode"
+
+	name: "River.004"
+	numMeshes: 1
+	 addr: "0000015A1BB3D570"
+	 name: "Splash.001"
+	 numVertices: "672"
+	 numFaces: "336"
+	
+	
+	name: "Armature.001"
+	
+		name: "Blood1"
+		
+		name: "Blood2"
+		
+		name: "Blood3"
+		
+		name: "Blood4"
+		
+
+[11:16:18.710087] [Import] [info] (th=15944) File loaded successfully
+[11:16:18.710179] [Import] [info] (th=15944) Meshes count: 1
+[11:16:18.710214] [Import] [info] (th=15944) Materials count: 1
+[11:16:18.710327] [Import] [info] (th=15944) Textures count (imported): 0
+[11:17:58.782265] [Import] [info] (th=15944) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Stuff\Blood_Ani.fbx
+[11:17:58.784863] [Import] [info] (th=15944) Imported scene tree:
+name: "RootNode"
+
+	name: "Blood"
+	numMeshes: 1
+	 addr: "0000015A1BB3F550"
+	 name: "Splash.001"
+	 numVertices: "672"
+	 numFaces: "336"
+	
+	
+	name: "Blood_Arma"
+	
+		name: "Blood1"
+		
+		name: "Blood2"
+		
+		name: "Blood3"
+		
+		name: "Blood4"
+		
+
+[11:17:58.784904] [Import] [info] (th=15944) File loaded successfully
+[11:17:58.784938] [Import] [info] (th=15944) Meshes count: 1
+[11:17:58.784974] [Import] [info] (th=15944) Materials count: 1
+[11:17:58.785074] [Import] [info] (th=15944) Textures count (imported): 0
+[11:19:17.162406] [Import] [info] (th=15944) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Stuff\Blood_Ani.fbx
+[11:19:17.166930] [Import] [info] (th=15944) Imported scene tree:
+name: "RootNode"
+
+	name: "Blood"
+	numMeshes: 1
+	 addr: "0000015A1BB385C0"
+	 name: "Splash.001"
+	 numVertices: "672"
+	 numFaces: "336"
+	
+	
+	name: "Blood_Arma"
+	
+		name: "Blood1"
+		
+		name: "Blood2"
+		
+		name: "Blood3"
+		
+		name: "Blood4"
+		
+
+[11:19:17.166971] [Import] [info] (th=15944) File loaded successfully
+[11:19:17.167006] [Import] [info] (th=15944) Meshes count: 1
+[11:19:17.167040] [Import] [info] (th=15944) Materials count: 1
+[11:19:17.167143] [Import] [info] (th=15944) Textures count (imported): 0
+[11:34:21.570195] [Import] [info] (th=15944) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Stuff\Blood_Ani.fbx
+[11:34:21.573901] [Import] [info] (th=15944) Imported scene tree:
+name: "RootNode"
+
+	name: "Blood_Arma"
+	
+		name: "Blood1"
+		
+		name: "Blood2"
+		
+		name: "Blood3"
+		
+		name: "Blood4"
+		
+
+[11:34:21.573943] [Import] [info] (th=15944) File loaded successfully
+[11:34:21.573978] [Import] [info] (th=15944) Meshes count: 0
+[11:34:21.574013] [Import] [info] (th=15944) Materials count: 0
+[11:40:36.891773] [Import] [info] (th=15944) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\Char\Mixamo_animations\DoubleJump_sppedUP.fbx
+[11:40:36.896478] [Import] [info] (th=15944) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+
+[11:40:36.896521] [Import] [info] (th=15944) File loaded successfully
+[11:40:36.896556] [Import] [info] (th=15944) Meshes count: 0
+[11:40:36.896590] [Import] [info] (th=15944) Materials count: 0
+[11:42:08.405016] [Import] [info] (th=15944) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\Char\Mixamo_animations\DoubleJump_speedUP.fbx
+[11:42:08.411191] [Import] [info] (th=15944) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+
+[11:42:08.411237] [Import] [info] (th=15944) File loaded successfully
+[11:42:08.411271] [Import] [info] (th=15944) Meshes count: 0
+[11:42:08.411311] [Import] [info] (th=15944) Materials count: 0
+[13:36:49.218544] [Import] [info] (th=15944) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_part1\Ground1_3-0.obj
+[13:36:49.594147] [Import] [info] (th=15944) Imported scene tree:
+name: "Ground1_3-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000015A1BB3EAB0"
+	 name: "defaultobject"
+	 numVertices: "160885"
+	 numFaces: "64864"
+	
+	
+
+[13:36:49.594255] [Import] [info] (th=15944) File loaded successfully
+[13:36:49.594292] [Import] [info] (th=15944) Meshes count: 1
+[13:36:49.594397] [Import] [info] (th=15944) Materials count: 2
+[13:36:49.599908] [Import] [warning] (th=15944) It seems that scene structure is different
+[13:37:20.265271] [Import] [info] (th=15944) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_part1\Ground1_3-0.obj
+[13:37:20.625300] [Import] [info] (th=15944) Imported scene tree:
+name: "Ground1_3-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000015A1BB3E010"
+	 name: "defaultobject"
+	 numVertices: "161055"
+	 numFaces: "64864"
+	
+	
+
+[13:37:20.625345] [Import] [info] (th=15944) File loaded successfully
+[13:37:20.625380] [Import] [info] (th=15944) Meshes count: 1
+[13:37:20.625416] [Import] [info] (th=15944) Materials count: 2
+[13:37:20.625560] [Import] [warning] (th=15944) It seems that scene structure is different
+[13:39:51.707184] [Import] [info] (th=15944) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Stuff\Lift_Button-0.obj
+[13:39:51.715575] [Import] [info] (th=15944) Imported scene tree:
+name: "Lift_Button-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000015A1BB39B00"
+	 name: "defaultobject"
+	 numVertices: "434"
+	 numFaces: "192"
+	
+	
+
+[13:39:51.715624] [Import] [info] (th=15944) File loaded successfully
+[13:39:51.715664] [Import] [info] (th=15944) Meshes count: 1
+[13:39:51.715702] [Import] [info] (th=15944) Materials count: 2
+[13:39:51.715949] [Import] [info] (th=15944) Textures count (imported): 1

@@ -1,0 +1,28 @@
+[18:37:34.534590] [Import] [info] (th=8860) Log level for 'Import' set to 'info'
+[18:37:34.534674] [Import] [info] (th=8860) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Splash.fbx
+[18:37:34.554535] [Import] [info] (th=8860) Imported scene tree:
+name: "RootNode"
+
+	name: "River.003"
+	numMeshes: 1
+	 addr: "00000216EB98D870"
+	 name: "Splash"
+	 numVertices: "672"
+	 numFaces: "336"
+	
+	
+	name: "Armature"
+	
+		name: "Splash1"
+		
+		name: "Splash2"
+		
+		name: "Splash3"
+		
+		name: "Splash4"
+		
+
+[18:37:34.554578] [Import] [info] (th=8860) File loaded successfully
+[18:37:34.554610] [Import] [info] (th=8860) Meshes count: 1
+[18:37:34.554642] [Import] [info] (th=8860) Materials count: 1
+[18:37:34.554793] [Import] [info] (th=8860) Textures count (imported): 0

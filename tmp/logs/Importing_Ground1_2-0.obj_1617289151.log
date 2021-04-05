@@ -1,0 +1,76 @@
+[17:59:11.133168] [Import] [info] (th=2112) Log level for 'Import' set to 'info'
+[17:59:11.133509] [Import] [info] (th=2112) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_part1\Ground1_2-0.obj
+[17:59:11.473374] [Import] [info] (th=2112) Imported scene tree:
+name: "Ground1_2-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000022BA2FDDAD0"
+	 name: "defaultobject"
+	 numVertices: "65277"
+	 numFaces: "26084"
+	
+	
+
+[17:59:11.473516] [Import] [info] (th=2112) File loaded successfully
+[17:59:11.473623] [Import] [info] (th=2112) Meshes count: 1
+[17:59:11.473800] [Import] [info] (th=2112) Materials count: 2
+[17:59:11.473975] [Import] [warning] (th=2112) It seems that scene structure is different
+[17:59:26.467995] [Import] [info] (th=2112) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\River.fbx
+[17:59:26.479760] [Import] [info] (th=2112) Imported scene tree:
+name: "RootNode"
+
+	name: "River_Top"
+	numMeshes: 1
+	 addr: "0000022BA2FDE020"
+	 name: "Plane.001"
+	 numVertices: "941"
+	 numFaces: "926"
+	
+	
+	name: "River_Stream"
+	numMeshes: 1
+	 addr: "0000022BA2FDF560"
+	 name: "Plane.003"
+	 numVertices: "907"
+	 numFaces: "864"
+	
+	
+
+[17:59:26.479804] [Import] [info] (th=2112) File loaded successfully
+[17:59:26.479836] [Import] [info] (th=2112) Meshes count: 2
+[17:59:26.479869] [Import] [info] (th=2112) Materials count: 2
+[17:59:26.480682] [Import] [info] (th=2112) Textures count (imported): 2
+[18:09:55.887626] [Import] [info] (th=2112) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\River_top.fbx
+[18:09:55.891060] [Import] [info] (th=2112) Imported scene tree:
+name: "RootNode"
+
+	name: "River_Top"
+	numMeshes: 1
+	 addr: "0000022BA2FDEAC0"
+	 name: "Plane.004"
+	 numVertices: "941"
+	 numFaces: "926"
+	
+	
+
+[18:09:55.891101] [Import] [info] (th=2112) File loaded successfully
+[18:09:55.891136] [Import] [info] (th=2112) Meshes count: 1
+[18:09:55.891210] [Import] [info] (th=2112) Materials count: 1
+[18:10:01.440685] [Import] [info] (th=2112) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\River_stream.fbx
+[18:10:01.444220] [Import] [info] (th=2112) Imported scene tree:
+name: "RootNode"
+
+	name: "River_Stream"
+	numMeshes: 1
+	 addr: "0000022BA2FE0550"
+	 name: "Plane.001"
+	 numVertices: "907"
+	 numFaces: "864"
+	
+	
+
+[18:10:01.444260] [Import] [info] (th=2112) File loaded successfully
+[18:10:01.444298] [Import] [info] (th=2112) Meshes count: 1
+[18:10:01.444330] [Import] [info] (th=2112) Materials count: 1
+[18:10:01.444468] [Import] [warning] (th=2112) It seems that scene structure is different

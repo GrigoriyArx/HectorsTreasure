@@ -1,0 +1,469 @@
+[16:47:46.587322] [Import] [info] (th=23836) Log level for 'Import' set to 'info'
+[16:47:46.587412] [Import] [info] (th=23836) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_part1\Ground1-0.obj
+[16:47:46.808830] [Import] [info] (th=23836) Imported scene tree:
+name: "Ground1-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000018C4D669090"
+	 name: "defaultobject"
+	 numVertices: "105417"
+	 numFaces: "41436"
+	
+	
+
+[16:47:46.808874] [Import] [info] (th=23836) File loaded successfully
+[16:47:46.808908] [Import] [info] (th=23836) Meshes count: 1
+[16:47:46.808941] [Import] [info] (th=23836) Materials count: 2
+[16:47:46.809093] [Import] [warning] (th=23836) It seems that scene structure is different
+[16:51:08.195099] [Import] [info] (th=23836) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_part1\Ground1-0.obj
+[16:51:08.419740] [Import] [info] (th=23836) Imported scene tree:
+name: "Ground1-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000018C4D66B070"
+	 name: "defaultobject"
+	 numVertices: "105475"
+	 numFaces: "41436"
+	
+	
+
+[16:51:08.419783] [Import] [info] (th=23836) File loaded successfully
+[16:51:08.419817] [Import] [info] (th=23836) Meshes count: 1
+[16:51:08.419850] [Import] [info] (th=23836) Materials count: 2
+[16:51:08.419989] [Import] [warning] (th=23836) It seems that scene structure is different
+[17:26:13.881086] [Import] [info] (th=23836) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_part1\Ground1-0-0.obj
+[17:26:14.121547] [Import] [info] (th=23836) Imported scene tree:
+name: "Ground1-0-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000018C4D66A5D0"
+	 name: "defaultobject"
+	 numVertices: "111873"
+	 numFaces: "43884"
+	
+	
+
+[17:26:14.121591] [Import] [info] (th=23836) File loaded successfully
+[17:26:14.121624] [Import] [info] (th=23836) Meshes count: 1
+[17:26:14.121670] [Import] [info] (th=23836) Materials count: 2
+[17:26:14.121810] [Import] [warning] (th=23836) It seems that scene structure is different
+[17:28:06.264701] [Import] [info] (th=23836) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_part1\Ground1_2-0.obj
+[17:28:06.328708] [Import] [info] (th=23836) Imported scene tree:
+name: "Ground1_2-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000018C4D6695E0"
+	 name: "defaultobject"
+	 numVertices: "25327"
+	 numFaces: "10014"
+	
+	
+
+[17:28:06.328900] [Import] [info] (th=23836) File loaded successfully
+[17:28:06.329072] [Import] [info] (th=23836) Meshes count: 1
+[17:28:06.329166] [Import] [info] (th=23836) Materials count: 2
+[17:28:06.329854] [Import] [info] (th=23836) Textures count (imported): 1
+[17:48:00.190110] [Import] [info] (th=23836) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_part1\Ground1_2-0.obj
+[17:48:00.248207] [Import] [info] (th=23836) Imported scene tree:
+name: "Ground1_2-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000018C4D66D5A0"
+	 name: "defaultobject"
+	 numVertices: "29984"
+	 numFaces: "11950"
+	
+	
+
+[17:48:00.248251] [Import] [info] (th=23836) File loaded successfully
+[17:48:00.248295] [Import] [info] (th=23836) Meshes count: 1
+[17:48:00.248328] [Import] [info] (th=23836) Materials count: 2
+[17:48:00.248469] [Import] [warning] (th=23836) It seems that scene structure is different
+[18:04:06.949950] [Import] [info] (th=23836) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_part1\Ground1-0-0.obj
+[18:04:07.194382] [Import] [info] (th=23836) Imported scene tree:
+name: "Ground1-0-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000018C4D66F030"
+	 name: "defaultobject"
+	 numVertices: "112737"
+	 numFaces: "44206"
+	
+	
+
+[18:04:07.194425] [Import] [info] (th=23836) File loaded successfully
+[18:04:07.194458] [Import] [info] (th=23836) Meshes count: 1
+[18:04:07.194491] [Import] [info] (th=23836) Materials count: 2
+[18:04:07.194642] [Import] [warning] (th=23836) It seems that scene structure is different
+[18:12:49.160729] [Import] [info] (th=23836) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_part1\Ground1-1-0.obj
+[18:12:49.223092] [Import] [info] (th=23836) Imported scene tree:
+name: "Ground1-1-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000018C4D66DAF0"
+	 name: "defaultobject"
+	 numVertices: "30713"
+	 numFaces: "12574"
+	
+	
+
+[18:12:49.223137] [Import] [info] (th=23836) File loaded successfully
+[18:12:49.223170] [Import] [info] (th=23836) Meshes count: 1
+[18:12:49.223204] [Import] [info] (th=23836) Materials count: 2
+[18:12:49.223346] [Import] [warning] (th=23836) It seems that scene structure is different
+[18:15:58.270909] [Import] [info] (th=23836) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_part1\Ground1-0-0.obj
+[18:15:58.519319] [Import] [info] (th=23836) Imported scene tree:
+name: "Ground1-0-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000018C4D66BB10"
+	 name: "defaultobject"
+	 numVertices: "116627"
+	 numFaces: "45776"
+	
+	
+
+[18:15:58.519363] [Import] [info] (th=23836) File loaded successfully
+[18:15:58.519405] [Import] [info] (th=23836) Meshes count: 1
+[18:15:58.519439] [Import] [info] (th=23836) Materials count: 2
+[18:15:58.519577] [Import] [warning] (th=23836) It seems that scene structure is different
+[20:05:41.704035] [Import] [info] (th=23836) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_part1\Ground1-0-0.obj
+[20:05:41.987788] [Import] [info] (th=23836) Imported scene tree:
+name: "Ground1-0-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000018C4D66EAE0"
+	 name: "defaultobject"
+	 numVertices: "124262"
+	 numFaces: "48794"
+	
+	
+
+[20:05:41.987833] [Import] [info] (th=23836) File loaded successfully
+[20:05:41.987866] [Import] [info] (th=23836) Meshes count: 1
+[20:05:41.987899] [Import] [info] (th=23836) Materials count: 2
+[20:05:41.988061] [Import] [warning] (th=23836) It seems that scene structure is different
+[20:06:04.198609] [Import] [info] (th=23836) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_part1\Ground1-1-0.obj
+[20:06:04.304159] [Import] [info] (th=23836) Imported scene tree:
+name: "Ground1-1-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000018C4D66A080"
+	 name: "defaultobject"
+	 numVertices: "50025"
+	 numFaces: "20412"
+	
+	
+
+[20:06:04.304267] [Import] [info] (th=23836) File loaded successfully
+[20:06:04.304307] [Import] [info] (th=23836) Meshes count: 1
+[20:06:04.304341] [Import] [info] (th=23836) Materials count: 2
+[20:06:04.304480] [Import] [warning] (th=23836) It seems that scene structure is different
+[20:06:10.592306] [Import] [info] (th=23836) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_part1\Ground1-0-0.obj
+[20:06:10.870797] [Import] [info] (th=23836) Imported scene tree:
+name: "Ground1-0-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000018C4D670AC0"
+	 name: "defaultobject"
+	 numVertices: "124262"
+	 numFaces: "48794"
+	
+	
+
+[20:06:10.870843] [Import] [info] (th=23836) File loaded successfully
+[20:06:10.870876] [Import] [info] (th=23836) Meshes count: 1
+[20:06:10.870909] [Import] [info] (th=23836) Materials count: 2
+[20:06:10.871210] [Import] [warning] (th=23836) It seems that scene structure is different
+[20:10:18.072146] [Import] [info] (th=23836) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\01_Паук\Spider.fbx
+[20:10:18.137999] [Import] [info] (th=23836) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Root"
+		
+			name: "Body"
+			
+				name: "tail"
+				
+				name: "Leg_front1.L"
+				
+					name: "Leg_front2.L"
+					
+						name: "Leg_front3.L"
+						
+				name: "Leg_front_mid1.L"
+				
+					name: "Leg_front_mid2.L"
+					
+						name: "Leg_front_mid3.L"
+						
+				name: "Leg_rear_mid1.L"
+				
+					name: "Leg_rear_mid2.L"
+					
+						name: "Leg_rear_mid3.L"
+						
+				name: "Leg_rear1.L"
+				
+					name: "Leg_rear2.L"
+					
+						name: "Leg_rear3.L"
+						
+				name: "Leg_front1.R"
+				
+					name: "Leg_front2.R"
+					
+						name: "Leg_front3.R"
+						
+				name: "Leg_front_mid1.R"
+				
+					name: "Leg_front_mid2.R"
+					
+						name: "Leg_front_mid3.R"
+						
+				name: "Leg_rear_mid1.R"
+				
+					name: "Leg_rear_mid2.R"
+					
+						name: "Leg_rear_mid3.R"
+						
+				name: "Leg_rear1.R"
+				
+					name: "Leg_rear2.R"
+					
+						name: "Leg_rear3.R"
+						
+				name: "Jaw.L"
+				
+				name: "Jaw.R"
+				
+	name: "Spider.002"
+	numMeshes: 1
+	 addr: "0000018C4D66C060"
+	 name: "Spider.010"
+	 numVertices: "3794"
+	 numFaces: "1668"
+	
+	
+
+[20:10:18.138046] [Import] [info] (th=23836) File loaded successfully
+[20:10:18.138079] [Import] [info] (th=23836) Meshes count: 1
+[20:10:18.138111] [Import] [info] (th=23836) Materials count: 1
+[20:10:18.138314] [Import] [info] (th=23836) Textures count (imported): 1
+[20:12:35.597792] [Import] [info] (th=23836) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\01_Паук\Spider_ani_idle.fbx
+[20:12:35.610558] [Import] [info] (th=23836) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Root"
+		
+			name: "Body"
+			
+				name: "tail"
+				
+				name: "Leg_front1.L"
+				
+					name: "Leg_front2.L"
+					
+						name: "Leg_front3.L"
+						
+				name: "Leg_front_mid1.L"
+				
+					name: "Leg_front_mid2.L"
+					
+						name: "Leg_front_mid3.L"
+						
+				name: "Leg_rear_mid1.L"
+				
+					name: "Leg_rear_mid2.L"
+					
+						name: "Leg_rear_mid3.L"
+						
+				name: "Leg_rear1.L"
+				
+					name: "Leg_rear2.L"
+					
+						name: "Leg_rear3.L"
+						
+				name: "Leg_front1.R"
+				
+					name: "Leg_front2.R"
+					
+						name: "Leg_front3.R"
+						
+				name: "Leg_front_mid1.R"
+				
+					name: "Leg_front_mid2.R"
+					
+						name: "Leg_front_mid3.R"
+						
+				name: "Leg_rear_mid1.R"
+				
+					name: "Leg_rear_mid2.R"
+					
+						name: "Leg_rear_mid3.R"
+						
+				name: "Leg_rear1.R"
+				
+					name: "Leg_rear2.R"
+					
+						name: "Leg_rear3.R"
+						
+				name: "Jaw.L"
+				
+				name: "Jaw.R"
+				
+
+[20:12:35.610605] [Import] [info] (th=23836) File loaded successfully
+[20:12:35.610638] [Import] [info] (th=23836) Meshes count: 0
+[20:12:35.610670] [Import] [info] (th=23836) Materials count: 0
+[20:12:52.254339] [Import] [info] (th=23836) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\01_Паук\Spider_ani_walk.fbx
+[20:12:52.263493] [Import] [info] (th=23836) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Root"
+		
+			name: "Body"
+			
+				name: "tail"
+				
+				name: "Leg_front1.L"
+				
+					name: "Leg_front2.L"
+					
+						name: "Leg_front3.L"
+						
+				name: "Leg_front_mid1.L"
+				
+					name: "Leg_front_mid2.L"
+					
+						name: "Leg_front_mid3.L"
+						
+				name: "Leg_rear_mid1.L"
+				
+					name: "Leg_rear_mid2.L"
+					
+						name: "Leg_rear_mid3.L"
+						
+				name: "Leg_rear1.L"
+				
+					name: "Leg_rear2.L"
+					
+						name: "Leg_rear3.L"
+						
+				name: "Leg_front1.R"
+				
+					name: "Leg_front2.R"
+					
+						name: "Leg_front3.R"
+						
+				name: "Leg_front_mid1.R"
+				
+					name: "Leg_front_mid2.R"
+					
+						name: "Leg_front_mid3.R"
+						
+				name: "Leg_rear_mid1.R"
+				
+					name: "Leg_rear_mid2.R"
+					
+						name: "Leg_rear_mid3.R"
+						
+				name: "Leg_rear1.R"
+				
+					name: "Leg_rear2.R"
+					
+						name: "Leg_rear3.R"
+						
+				name: "Jaw.L"
+				
+				name: "Jaw.R"
+				
+
+[20:12:52.263650] [Import] [info] (th=23836) File loaded successfully
+[20:12:52.263748] [Import] [info] (th=23836) Meshes count: 0
+[20:12:52.263837] [Import] [info] (th=23836) Materials count: 0
+[20:13:09.787152] [Import] [info] (th=23836) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\01_Паук\Spider_ani_attack.fbx
+[20:13:09.797253] [Import] [info] (th=23836) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Root"
+		
+			name: "Body"
+			
+				name: "tail"
+				
+				name: "Leg_front1.L"
+				
+					name: "Leg_front2.L"
+					
+						name: "Leg_front3.L"
+						
+				name: "Leg_front_mid1.L"
+				
+					name: "Leg_front_mid2.L"
+					
+						name: "Leg_front_mid3.L"
+						
+				name: "Leg_rear_mid1.L"
+				
+					name: "Leg_rear_mid2.L"
+					
+						name: "Leg_rear_mid3.L"
+						
+				name: "Leg_rear1.L"
+				
+					name: "Leg_rear2.L"
+					
+						name: "Leg_rear3.L"
+						
+				name: "Leg_front1.R"
+				
+					name: "Leg_front2.R"
+					
+						name: "Leg_front3.R"
+						
+				name: "Leg_front_mid1.R"
+				
+					name: "Leg_front_mid2.R"
+					
+						name: "Leg_front_mid3.R"
+						
+				name: "Leg_rear_mid1.R"
+				
+					name: "Leg_rear_mid2.R"
+					
+						name: "Leg_rear_mid3.R"
+						
+				name: "Leg_rear1.R"
+				
+					name: "Leg_rear2.R"
+					
+						name: "Leg_rear3.R"
+						
+				name: "Jaw.L"
+				
+				name: "Jaw.R"
+				
+
+[20:13:09.797444] [Import] [info] (th=23836) File loaded successfully
+[20:13:09.797481] [Import] [info] (th=23836) Meshes count: 0
+[20:13:09.797579] [Import] [info] (th=23836) Materials count: 0
