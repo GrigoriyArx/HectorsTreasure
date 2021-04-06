@@ -1,0 +1,35 @@
+[15:20:50.979859] [Import] [info] (th=18392) Log level for 'Import' set to 'info'
+[15:20:50.979959] [Import] [info] (th=18392) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Stuff\Torchlight-0.obj
+[15:20:50.995058] [Import] [info] (th=18392) Imported scene tree:
+name: "Torchlight-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000024C1F9484E0"
+	 name: "defaultobject"
+	 numVertices: "502"
+	 numFaces: "182"
+	
+	
+
+[15:20:50.995108] [Import] [info] (th=18392) File loaded successfully
+[15:20:50.995147] [Import] [info] (th=18392) Meshes count: 1
+[15:20:50.995190] [Import] [info] (th=18392) Materials count: 2
+[15:20:50.995498] [Import] [info] (th=18392) Textures count (imported): 1
+[16:16:45.314180] [Import] [info] (th=18392) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_part1\Ground1_4-0.obj
+[16:16:46.351194] [Import] [info] (th=18392) Imported scene tree:
+name: "Ground1_4-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000024C1F949A20"
+	 name: "defaultobject"
+	 numVertices: "380129"
+	 numFaces: "160074"
+	
+	
+
+[16:16:46.351237] [Import] [info] (th=18392) File loaded successfully
+[16:16:46.351277] [Import] [info] (th=18392) Meshes count: 1
+[16:16:46.351310] [Import] [info] (th=18392) Materials count: 2
+[16:16:46.351463] [Import] [warning] (th=18392) It seems that scene structure is different
