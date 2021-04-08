@@ -1,0 +1,84 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "20CAAD9D-28CB-4C6A-9283-4869D7089192"
+            },
+            "name": "Stem0",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "537749CF-59CC-4D37-AEAE-749336D09574"
+                },
+                "static": true,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "ED259BD7-9F50-44A0-B5A5-1617AD4E8827"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        3.9000000953674318,
+                        2.59999942779541,
+                        2.000000238418579,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        5.600000381469727,
+                        0.4999995231628418,
+                        2.000000238418579,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "defaultobject",
+                "importedName": "defaultobject",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "28C22A9E-78F0-471F-B970-D7C890D78351"
+        },
+        "is_asset_root": true,
+        "asset_name": "Stem0"
+    }
+]

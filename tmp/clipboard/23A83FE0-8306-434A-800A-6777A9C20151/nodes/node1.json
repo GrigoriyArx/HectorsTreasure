@@ -1,0 +1,84 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "3F5A0BB7-2D32-4A6D-BFE9-D08103132DF9"
+            },
+            "name": "Flower2",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "7C4BB5EA-028F-4435-98B1-2574178CCF27"
+                },
+                "static": true,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "FD7369A2-7132-49D0-97BE-8BD462A0AEB5"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        2.1000001430511476,
+                        6.399999618530273,
+                        -2.1000001430511476,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        3.8000001907348635,
+                        4.299999713897705,
+                        -2.1000001430511476,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "defaultobject",
+                "importedName": "defaultobject",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "A0866D27-85CE-4665-A4C1-92BD4A21F62E"
+        },
+        "is_asset_root": true,
+        "asset_name": "Flower2"
+    }
+]

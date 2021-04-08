@@ -1,0 +1,706 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "B2887AC2-C94B-4CEE-8841-9D5B5BD24856"
+            },
+            "name": "Torchlight-0",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        5.470262050628662,
+                        -1.1839599609375,
+                        90.83161163330078,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        92.53160858154297,
+                        3.3702621459960939,
+                        -1.1839599609375,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Torchlight-0.obj",
+                "importedName": "Torchlight-0.obj",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9F7B25E9-DC9B-426C-BDE4-5431AC1A7E54"
+        },
+        "is_asset_root": true,
+        "asset_name": "Torchlight-0",
+        "children": [
+            "FDBDA832-5FFB-453A-8EB5-DC135BDD4AC4",
+            "18BD421C-C360-4608-B54F-917D443C9F58",
+            "3D30EC7F-7E73-415B-9647-81C0CA4BD343",
+            "682899CA-F496-4257-8DA9-525E8359CA49",
+            "1DC2FFF3-2930-457A-B8C6-713747139784",
+            "D284A984-6FA0-402B-8311-17299ECD77EC",
+            "5F397406-5868-4C61-A55B-1A0025346A11",
+            "DC9F9C41-6298-465E-82D7-D106786F28A3"
+        ]
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "FDBDA832-5FFB-453A-8EB5-DC135BDD4AC4"
+            },
+            "name": "Point light",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "light": {
+                "@class": "BaseComponentLight",
+                "lightId": {
+                    "uuid": "4BB4D5C9-0C97-453D-B5EF-73FCACD1ED61"
+                }
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.9835038185119629,
+                        0.6248779296875,
+                        0.00231170654296875,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        92.53392028808594,
+                        4.353765964508057,
+                        -0.55908203125,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9F7B25E9-DC9B-426C-BDE4-5431AC1A7E54"
+        },
+        "is_asset_root": false
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "18BD421C-C360-4608-B54F-917D443C9F58"
+            },
+            "name": "Torch",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "2CFDD079-1D59-4AC3-84FE-E45548ABB4D8"
+                },
+                "static": false,
+                "shadowCast": false,
+                "shadowReceive": false
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "4C57C668-B79E-4DF8-848C-3DE6572F70FB"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        92.53160858154297,
+                        3.3702621459960939,
+                        -1.1839599609375,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "defaultobject",
+                "importedName": "defaultobject",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9F7B25E9-DC9B-426C-BDE4-5431AC1A7E54"
+        },
+        "is_asset_root": false
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "3D30EC7F-7E73-415B-9647-81C0CA4BD343"
+            },
+            "name": "FireBAse",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "FF4D7CB0-6B7D-4352-9B72-C9A3E8F8EF0F"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "B8B0C838-94E9-4150-A263-937F2FB5DE36"
+                },
+                "mapsStates": 0
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        0.20000000298023225,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.19999998807907105,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.19999998807907105,
+                        0.0,
+                        0.800000011920929,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        0.0,
+                        0.20000000298023225,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.19999998807907105,
+                        0.0,
+                        0.19999998807907105,
+                        0.0,
+                        0.0,
+                        0.0,
+                        92.53160858154297,
+                        4.170262336730957,
+                        -1.1839599609375,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9F7B25E9-DC9B-426C-BDE4-5431AC1A7E54"
+        },
+        "is_asset_root": false
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "682899CA-F496-4257-8DA9-525E8359CA49"
+            },
+            "name": "FirePart1",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "FF4D7CB0-6B7D-4352-9B72-C9A3E8F8EF0F"
+                },
+                "static": false,
+                "shadowCast": false,
+                "shadowReceive": false
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "AFE05553-FB5E-4D48-8BD5-24F0A3E21493"
+                },
+                "mapsStates": 0
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        0.10000000894069672,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.10000000149011612,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.09999999403953552,
+                        0.0,
+                        0.7999997138977051,
+                        0.0,
+                        0.10000000149011612,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        0.0,
+                        0.10000000894069672,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.10000000149011612,
+                        0.0,
+                        0.09999999403953552,
+                        0.0,
+                        0.0,
+                        0.0,
+                        92.63160705566406,
+                        4.170261859893799,
+                        -1.1839599609375,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9F7B25E9-DC9B-426C-BDE4-5431AC1A7E54"
+        },
+        "is_asset_root": false
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "1DC2FFF3-2930-457A-B8C6-713747139784"
+            },
+            "name": "FirePart1 2",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "FF4D7CB0-6B7D-4352-9B72-C9A3E8F8EF0F"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "F8F0CCD1-BF0A-4DBC-9883-0DFBF23F71DC"
+                },
+                "mapsStates": 0
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        0.10000000894069672,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.10000000149011612,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.09999999403953552,
+                        0.0,
+                        0.7999997138977051,
+                        0.0,
+                        -0.10000000149011612,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        0.0,
+                        0.10000000894069672,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.10000000149011612,
+                        0.0,
+                        0.09999999403953552,
+                        0.0,
+                        0.0,
+                        0.0,
+                        92.43161010742188,
+                        4.170261859893799,
+                        -1.1839599609375,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9F7B25E9-DC9B-426C-BDE4-5431AC1A7E54"
+        },
+        "is_asset_root": false
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "D284A984-6FA0-402B-8311-17299ECD77EC"
+            },
+            "name": "FirePart1 3",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "FF4D7CB0-6B7D-4352-9B72-C9A3E8F8EF0F"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "ED6535BC-4752-4D9F-8750-D2E85B95CB51"
+                },
+                "mapsStates": 0
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        0.10000000894069672,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.10000000149011612,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.09999999403953552,
+                        0.0,
+                        0.7999997138977051,
+                        -0.10000000149011612,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        0.0,
+                        0.10000000894069672,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.10000000149011612,
+                        0.0,
+                        0.09999999403953552,
+                        0.0,
+                        0.0,
+                        0.0,
+                        92.53160858154297,
+                        4.170261859893799,
+                        -1.283959984779358,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9F7B25E9-DC9B-426C-BDE4-5431AC1A7E54"
+        },
+        "is_asset_root": false
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "5F397406-5868-4C61-A55B-1A0025346A11"
+            },
+            "name": "FirePart1 4",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "FF4D7CB0-6B7D-4352-9B72-C9A3E8F8EF0F"
+                },
+                "static": false,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "E4146C4D-20D6-45D3-86D9-AEDF3CB90EC0"
+                },
+                "mapsStates": 0
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        0.10000000894069672,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.10000000149011612,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.09999999403953552,
+                        0.0,
+                        0.7999997138977051,
+                        0.10000000149011612,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        0.0,
+                        0.10000000894069672,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.10000000149011612,
+                        0.0,
+                        0.09999999403953552,
+                        0.0,
+                        0.0,
+                        0.0,
+                        92.53160858154297,
+                        4.170261859893799,
+                        -1.083959937095642,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9F7B25E9-DC9B-426C-BDE4-5431AC1A7E54"
+        },
+        "is_asset_root": false
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "DC9F9C41-6298-465E-82D7-D106786F28A3"
+            },
+            "name": "Fire_parts",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "timeline": {
+                "@class": "BaseComponentTimeline",
+                "timelineId": {
+                    "uuid": "CB0E1D0B-8ECA-4B3B-8121-4663C4E5EBA2"
+                }
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        92.53160858154297,
+                        3.3702621459960939,
+                        -1.1839599609375,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "9F7B25E9-DC9B-426C-BDE4-5431AC1A7E54"
+        },
+        "is_asset_root": false
+    }
+]

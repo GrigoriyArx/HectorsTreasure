@@ -1,0 +1,84 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "D59BE7D5-4DFA-4702-BC77-C5FAE8382170"
+            },
+            "name": "Grass0 4",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "8F18790B-80FB-4AFF-BB42-AB884A62654C"
+                },
+                "static": true,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "2DD99A97-A6E4-4C37-B603-2AB519C4A916"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -1.0,
+                        -8.742277657347586e-8,
+                        0.0,
+                        0.0,
+                        -8.742277657347586e-8,
+                        1.0,
+                        -8.742277657347586e-8,
+                        0.0,
+                        7.64274186065882e-15,
+                        -8.742277657347586e-8,
+                        -1.0,
+                        0.0,
+                        18.199996948242189,
+                        2.399998426437378,
+                        2.9999985694885256,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -1.0,
+                        -8.742277657347586e-8,
+                        0.0,
+                        0.0,
+                        -8.742277657347586e-8,
+                        1.0,
+                        -8.742277657347586e-8,
+                        0.0,
+                        7.64274186065882e-15,
+                        -8.742277657347586e-8,
+                        -1.0,
+                        0.0,
+                        19.89999771118164,
+                        0.29999852180480959,
+                        2.9999985694885256,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "defaultobject",
+                "importedName": "defaultobject",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "F3926E5D-857B-4160-AC23-72F6D4A5E870"
+        },
+        "is_asset_root": true,
+        "asset_name": "Grass0"
+    }
+]

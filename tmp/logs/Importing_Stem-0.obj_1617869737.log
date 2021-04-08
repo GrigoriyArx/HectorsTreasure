@@ -1,0 +1,1144 @@
+[11:15:37.803563] [Import] [info] (th=7524) Log level for 'Import' set to 'info'
+[11:15:37.803646] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Decor\Stem-0.obj
+[11:15:37.813833] [Import] [info] (th=7524) Imported scene tree:
+name: "Stem-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000019E9E6C2A10"
+	 name: "defaultobject"
+	 numVertices: "1186"
+	 numFaces: "416"
+	
+	
+
+[11:15:37.813887] [Import] [info] (th=7524) File loaded successfully
+[11:15:37.813929] [Import] [info] (th=7524) Meshes count: 1
+[11:15:37.813968] [Import] [info] (th=7524) Materials count: 2
+[11:15:37.814303] [Import] [info] (th=7524) Textures count (imported): 1
+[11:16:22.325618] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Decor\Stem-1.obj
+[11:16:22.335844] [Import] [info] (th=7524) Imported scene tree:
+name: "Stem-1.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000019EA2E0FB20"
+	 name: "defaultobject"
+	 numVertices: "1234"
+	 numFaces: "440"
+	
+	
+
+[11:16:22.335888] [Import] [info] (th=7524) File loaded successfully
+[11:16:22.335921] [Import] [info] (th=7524) Meshes count: 1
+[11:16:22.335954] [Import] [info] (th=7524) Materials count: 2
+[11:16:22.336197] [Import] [info] (th=7524) Textures count (imported): 1
+[11:16:56.117762] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Decor\Stem-2.obj
+[11:16:56.126872] [Import] [info] (th=7524) Imported scene tree:
+name: "Stem-2.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000019EA2E14AD0"
+	 name: "defaultobject"
+	 numVertices: "799"
+	 numFaces: "280"
+	
+	
+
+[11:16:56.126914] [Import] [info] (th=7524) File loaded successfully
+[11:16:56.126947] [Import] [info] (th=7524) Meshes count: 1
+[11:16:56.126979] [Import] [info] (th=7524) Materials count: 2
+[11:16:56.127257] [Import] [info] (th=7524) Textures count (imported): 1
+[11:19:47.005714] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Decor\Stem-3.obj
+[11:19:47.013736] [Import] [info] (th=7524) Imported scene tree:
+name: "Stem-3.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000019EA2E10070"
+	 name: "defaultobject"
+	 numVertices: "423"
+	 numFaces: "148"
+	
+	
+
+[11:19:47.013778] [Import] [info] (th=7524) File loaded successfully
+[11:19:47.013810] [Import] [info] (th=7524) Meshes count: 1
+[11:19:47.013843] [Import] [info] (th=7524) Materials count: 2
+[11:19:47.014072] [Import] [info] (th=7524) Textures count (imported): 1
+[11:22:24.866222] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Decor\Stem-4.obj
+[11:22:24.880206] [Import] [info] (th=7524) Imported scene tree:
+name: "Stem-4.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000019EA2E10B10"
+	 name: "defaultobject"
+	 numVertices: "1234"
+	 numFaces: "440"
+	
+	
+
+[11:22:24.880286] [Import] [info] (th=7524) File loaded successfully
+[11:22:24.880358] [Import] [info] (th=7524) Meshes count: 1
+[11:22:24.880421] [Import] [info] (th=7524) Materials count: 2
+[11:22:24.881063] [Import] [info] (th=7524) Textures count (imported): 1
+[11:26:04.893306] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_Part2\Ground-8.obj
+[11:26:04.981114] [Import] [info] (th=7524) Imported scene tree:
+name: "Ground-8.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000019EA2E0EB30"
+	 name: "defaultobject"
+	 numVertices: "46345"
+	 numFaces: "19452"
+	
+	
+
+[11:26:04.981157] [Import] [info] (th=7524) File loaded successfully
+[11:26:04.981191] [Import] [info] (th=7524) Meshes count: 1
+[11:26:04.981225] [Import] [info] (th=7524) Materials count: 2
+[11:26:04.981379] [Import] [warning] (th=7524) It seems that scene structure is different
+[11:29:34.589463] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Decor\Flower-0.obj
+[11:29:34.599451] [Import] [info] (th=7524) Imported scene tree:
+name: "Flower-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000019EA2E11B00"
+	 name: "defaultobject"
+	 numVertices: "444"
+	 numFaces: "156"
+	
+	
+
+[11:29:34.599492] [Import] [info] (th=7524) File loaded successfully
+[11:29:34.599525] [Import] [info] (th=7524) Meshes count: 1
+[11:29:34.599558] [Import] [info] (th=7524) Materials count: 2
+[11:29:34.599839] [Import] [info] (th=7524) Textures count (imported): 1
+[11:30:36.842025] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Decor\Flower-2.obj
+[11:30:36.851350] [Import] [info] (th=7524) Imported scene tree:
+name: "Flower-2.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000019EA2E14580"
+	 name: "defaultobject"
+	 numVertices: "693"
+	 numFaces: "262"
+	
+	
+
+[11:30:36.851393] [Import] [info] (th=7524) File loaded successfully
+[11:30:36.851426] [Import] [info] (th=7524) Meshes count: 1
+[11:30:36.851459] [Import] [info] (th=7524) Materials count: 2
+[11:30:36.851708] [Import] [info] (th=7524) Textures count (imported): 1
+[11:31:35.985676] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Decor\Flower-2.obj
+[11:31:35.994784] [Import] [info] (th=7524) Imported scene tree:
+name: "Flower-2.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000019EA2E12AF0"
+	 name: "defaultobject"
+	 numVertices: "693"
+	 numFaces: "262"
+	
+	
+
+[11:31:35.994854] [Import] [info] (th=7524) File loaded successfully
+[11:31:35.994912] [Import] [info] (th=7524) Meshes count: 1
+[11:31:35.994976] [Import] [info] (th=7524) Materials count: 2
+[11:31:35.995346] [Import] [info] (th=7524) Textures count (imported): 1
+[11:32:26.069850] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Decor\Flower-1.obj
+[11:32:26.079512] [Import] [info] (th=7524) Imported scene tree:
+name: "Flower-1.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000019EA2E0D0A0"
+	 name: "defaultobject"
+	 numVertices: "561"
+	 numFaces: "204"
+	
+	
+
+[11:32:26.079586] [Import] [info] (th=7524) File loaded successfully
+[11:32:26.079654] [Import] [info] (th=7524) Meshes count: 1
+[11:32:26.079719] [Import] [info] (th=7524) Materials count: 2
+[11:32:26.080134] [Import] [info] (th=7524) Textures count (imported): 1
+[12:02:54.235811] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_Part2\Ground-26_Wall.obj
+[12:02:54.245430] [Import] [info] (th=7524) Imported scene tree:
+name: "Ground-26_Wall.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000019EA2E125A0"
+	 name: "defaultobject"
+	 numVertices: "2485"
+	 numFaces: "1030"
+	
+	
+
+[12:02:54.245473] [Import] [info] (th=7524) File loaded successfully
+[12:02:54.245506] [Import] [info] (th=7524) Meshes count: 1
+[12:02:54.245539] [Import] [info] (th=7524) Materials count: 2
+[12:02:54.245814] [Import] [info] (th=7524) Textures count (imported): 1
+[12:04:23.665189] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_Part2\Ground-27_Wall.obj
+[12:04:23.678224] [Import] [info] (th=7524) Imported scene tree:
+name: "Ground-27_Wall.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000019EA2E0E090"
+	 name: "defaultobject"
+	 numVertices: "3050"
+	 numFaces: "1282"
+	
+	
+
+[12:04:23.678280] [Import] [info] (th=7524) File loaded successfully
+[12:04:23.678336] [Import] [info] (th=7524) Meshes count: 1
+[12:04:23.678393] [Import] [info] (th=7524) Materials count: 2
+[12:04:23.678696] [Import] [info] (th=7524) Textures count (imported): 1
+[12:47:33.556408] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Stuff\Door.fbx
+[12:47:33.651753] [Import] [info] (th=7524) Imported scene tree:
+name: "RootNode"
+
+	name: "Door-0"
+	numMeshes: 1
+	 addr: "0000019EA2E13590"
+	 name: "Door-0"
+	 numVertices: "3338"
+	 numFaces: "1292"
+	
+	
+
+[12:47:33.651798] [Import] [info] (th=7524) File loaded successfully
+[12:47:33.651842] [Import] [info] (th=7524) Meshes count: 1
+[12:47:33.651885] [Import] [info] (th=7524) Materials count: 1
+[12:47:33.652045] [Import] [warning] (th=7524) It seems that scene structure is different
+[12:48:00.568111] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Stuff\Door.fbx
+[12:48:00.572794] [Import] [info] (th=7524) Imported scene tree:
+name: "RootNode"
+
+	name: "Door-0"
+	numMeshes: 1
+	 addr: "0000019EA2E12050"
+	 name: "Door-0"
+	 numVertices: "3348"
+	 numFaces: "1292"
+	
+	
+
+[12:48:00.572836] [Import] [info] (th=7524) File loaded successfully
+[12:48:00.572868] [Import] [info] (th=7524) Meshes count: 1
+[12:48:00.572901] [Import] [info] (th=7524) Materials count: 1
+[12:48:00.573035] [Import] [warning] (th=7524) It seems that scene structure is different
+[12:53:20.120645] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_Part2\Ground-20-0.obj
+[12:53:20.137251] [Import] [info] (th=7524) Imported scene tree:
+name: "Ground-20-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000019EA2E13040"
+	 name: "defaultobject"
+	 numVertices: "6467"
+	 numFaces: "2782"
+	
+	
+
+[12:53:20.137293] [Import] [info] (th=7524) File loaded successfully
+[12:53:20.137379] [Import] [info] (th=7524) Meshes count: 1
+[12:53:20.137417] [Import] [info] (th=7524) Materials count: 2
+[12:53:20.137599] [Import] [warning] (th=7524) It seems that scene structure is different
+[13:09:27.659793] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_Part2\Ground-28_floor-0.obj
+[13:09:27.706625] [Import] [info] (th=7524) Imported scene tree:
+name: "Ground-28_floor-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000019E9E6C99A0"
+	 name: "defaultobject"
+	 numVertices: "23845"
+	 numFaces: "10210"
+	
+	
+
+[13:09:27.706668] [Import] [info] (th=7524) File loaded successfully
+[13:09:27.706783] [Import] [info] (th=7524) Meshes count: 1
+[13:09:27.706823] [Import] [info] (th=7524) Materials count: 2
+[13:09:27.707130] [Import] [info] (th=7524) Textures count (imported): 1
+[13:52:58.519106] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_Part2\Ground-29-0.obj
+[13:52:58.538322] [Import] [info] (th=7524) Imported scene tree:
+name: "Ground-29-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000019EAECF0050"
+	 name: "defaultobject"
+	 numVertices: "7958"
+	 numFaces: "3214"
+	
+	
+
+[13:52:58.538366] [Import] [info] (th=7524) File loaded successfully
+[13:52:58.538400] [Import] [info] (th=7524) Meshes count: 1
+[13:52:58.538436] [Import] [info] (th=7524) Materials count: 2
+[13:52:58.538712] [Import] [info] (th=7524) Textures count (imported): 1
+[14:11:58.894537] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_Part2\Ground-30-0.obj
+[14:11:58.919173] [Import] [info] (th=7524) Imported scene tree:
+name: "Ground-30-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000019EAECEE5C0"
+	 name: "defaultobject"
+	 numVertices: "10929"
+	 numFaces: "4756"
+	
+	
+
+[14:11:58.919217] [Import] [info] (th=7524) File loaded successfully
+[14:11:58.919254] [Import] [info] (th=7524) Meshes count: 1
+[14:11:58.919291] [Import] [info] (th=7524) Materials count: 2
+[14:11:58.919565] [Import] [info] (th=7524) Textures count (imported): 1
+[14:47:34.739001] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Stuff\manu-0.obj
+[14:47:34.749008] [Import] [info] (th=7524) Imported scene tree:
+name: "manu-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000019EAECE9610"
+	 name: "defaultobject"
+	 numVertices: "2435"
+	 numFaces: "920"
+	
+	
+
+[14:47:34.749107] [Import] [info] (th=7524) File loaded successfully
+[14:47:34.749186] [Import] [info] (th=7524) Meshes count: 1
+[14:47:34.749264] [Import] [info] (th=7524) Materials count: 2
+[14:47:34.749610] [Import] [info] (th=7524) Textures count (imported): 1
+[15:13:36.336102] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Stuff\Guillotina-0.obj
+[15:13:36.345368] [Import] [info] (th=7524) Imported scene tree:
+name: "Guillotina-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000019EAECE9B60"
+	 name: "defaultobject"
+	 numVertices: "1963"
+	 numFaces: "768"
+	
+	
+
+[15:13:36.345457] [Import] [info] (th=7524) File loaded successfully
+[15:13:36.345491] [Import] [info] (th=7524) Meshes count: 1
+[15:13:36.345524] [Import] [info] (th=7524) Materials count: 2
+[15:13:36.345783] [Import] [info] (th=7524) Textures count (imported): 1
+[16:04:33.203753] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Stuff\Chest.fbx
+[16:04:33.210591] [Import] [info] (th=7524) Imported scene tree:
+name: "RootNode"
+
+	name: "Chest-0"
+	numMeshes: 1
+	 addr: "0000019EAECEA600"
+	 name: "Chest-0"
+	 numVertices: "3413"
+	 numFaces: "1322"
+	
+	
+	name: "Chest-1"
+	numMeshes: 1
+	 addr: "0000019EAECEC5E0"
+	 name: "Chest-1"
+	 numVertices: "1127"
+	 numFaces: "448"
+	
+	
+
+[16:04:33.210634] [Import] [info] (th=7524) File loaded successfully
+[16:04:33.210667] [Import] [info] (th=7524) Meshes count: 2
+[16:04:33.210700] [Import] [info] (th=7524) Materials count: 2
+[16:04:33.211066] [Import] [info] (th=7524) Textures count (imported): 2
+[16:20:47.317347] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\02_Скорпион\Scorp_T-pose.fbx
+[16:20:47.356852] [Import] [info] (th=7524) Imported scene tree:
+name: "RootNode"
+
+	name: "Scorp"
+	numMeshes: 1
+	 addr: "0000019EAECE90C0"
+	 name: "Scorp"
+	 numVertices: "5277"
+	 numFaces: "1972"
+	
+	
+	name: "Armature"
+	
+		name: "Root"
+		
+			name: "Body"
+			
+				name: "tail1"
+				
+					name: "tail2"
+					
+						name: "tail3"
+						
+							name: "tail4"
+							
+								name: "tail5"
+								
+									name: "tail6"
+									
+										name: "Sting"
+										
+				name: "leg1.L"
+				
+					name: "leg1-2.L"
+					
+				name: "leg2.L"
+				
+					name: "leg2-2.L"
+					
+				name: "leg3.L"
+				
+					name: "leg3-2.L"
+					
+				name: "leg4.L"
+				
+					name: "leg4-2.L"
+					
+				name: "Arm1.L"
+				
+					name: "Arm2.L"
+					
+						name: "ClawBig.L"
+						
+							name: "ClawSmal.L"
+							
+				name: "leg1.R"
+				
+					name: "leg1-2.R"
+					
+				name: "leg2.R"
+				
+					name: "leg2-2.R"
+					
+				name: "leg3.R"
+				
+					name: "leg3-2.R"
+					
+				name: "leg4.R"
+				
+					name: "leg4-2.R"
+					
+				name: "Arm1.R"
+				
+					name: "Arm2.R"
+					
+						name: "ClawBig.R"
+						
+							name: "ClawSmal.R"
+							
+
+[16:20:47.356958] [Import] [info] (th=7524) File loaded successfully
+[16:20:47.357112] [Import] [info] (th=7524) Meshes count: 1
+[16:20:47.357235] [Import] [info] (th=7524) Materials count: 1
+[16:20:47.357469] [Import] [info] (th=7524) Textures count (imported): 1
+[16:22:39.557864] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\02_Скорпион\Scorp_T-pose.fbx
+[16:22:39.599405] [Import] [info] (th=7524) Imported scene tree:
+name: "RootNode"
+
+	name: "Scorp"
+	numMeshes: 1
+	 addr: "0000019EAECF0AF0"
+	 name: "Scorp"
+	 numVertices: "8456"
+	 numFaces: "3148"
+	
+	
+	name: "Armature"
+	
+		name: "Root"
+		
+			name: "Body"
+			
+				name: "tail1"
+				
+					name: "tail2"
+					
+						name: "tail3"
+						
+							name: "tail4"
+							
+								name: "tail5"
+								
+									name: "tail6"
+									
+										name: "Sting"
+										
+				name: "leg1.L"
+				
+					name: "leg1-2.L"
+					
+				name: "leg2.L"
+				
+					name: "leg2-2.L"
+					
+				name: "leg3.L"
+				
+					name: "leg3-2.L"
+					
+				name: "leg4.L"
+				
+					name: "leg4-2.L"
+					
+				name: "Arm1.L"
+				
+					name: "Arm2.L"
+					
+						name: "ClawBig.L"
+						
+							name: "ClawSmal.L"
+							
+				name: "leg1.R"
+				
+					name: "leg1-2.R"
+					
+				name: "leg2.R"
+				
+					name: "leg2-2.R"
+					
+				name: "leg3.R"
+				
+					name: "leg3-2.R"
+					
+				name: "leg4.R"
+				
+					name: "leg4-2.R"
+					
+				name: "Arm1.R"
+				
+					name: "Arm2.R"
+					
+						name: "ClawBig.R"
+						
+							name: "ClawSmal.R"
+							
+
+[16:22:39.599448] [Import] [info] (th=7524) File loaded successfully
+[16:22:39.599480] [Import] [info] (th=7524) Meshes count: 1
+[16:22:39.599520] [Import] [info] (th=7524) Materials count: 1
+[16:22:39.599730] [Import] [info] (th=7524) Textures count (imported): 1
+[16:24:27.964351] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\02_Скорпион\Scorp_attack.fbx
+[16:24:27.997036] [Import] [info] (th=7524) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Root"
+		
+			name: "Body"
+			
+				name: "tail1"
+				
+					name: "tail2"
+					
+						name: "tail3"
+						
+							name: "tail4"
+							
+								name: "tail5"
+								
+									name: "tail6"
+									
+										name: "Sting"
+										
+				name: "leg1.L"
+				
+					name: "leg1-2.L"
+					
+				name: "leg2.L"
+				
+					name: "leg2-2.L"
+					
+				name: "leg3.L"
+				
+					name: "leg3-2.L"
+					
+				name: "leg4.L"
+				
+					name: "leg4-2.L"
+					
+				name: "Arm1.L"
+				
+					name: "Arm2.L"
+					
+						name: "ClawBig.L"
+						
+							name: "ClawSmal.L"
+							
+				name: "leg1.R"
+				
+					name: "leg1-2.R"
+					
+				name: "leg2.R"
+				
+					name: "leg2-2.R"
+					
+				name: "leg3.R"
+				
+					name: "leg3-2.R"
+					
+				name: "leg4.R"
+				
+					name: "leg4-2.R"
+					
+				name: "Arm1.R"
+				
+					name: "Arm2.R"
+					
+						name: "ClawBig.R"
+						
+							name: "ClawSmal.R"
+							
+
+[16:24:27.997080] [Import] [info] (th=7524) File loaded successfully
+[16:24:27.997112] [Import] [info] (th=7524) Meshes count: 0
+[16:24:27.997144] [Import] [info] (th=7524) Materials count: 0
+[16:25:41.613813] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\02_Скорпион\Scorp_idle.fbx
+[16:25:41.617670] [Import] [info] (th=7524) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Root"
+		
+			name: "Body"
+			
+				name: "tail1"
+				
+					name: "tail2"
+					
+						name: "tail3"
+						
+							name: "tail4"
+							
+								name: "tail5"
+								
+									name: "tail6"
+									
+										name: "Sting"
+										
+				name: "leg1.L"
+				
+					name: "leg1-2.L"
+					
+				name: "leg2.L"
+				
+					name: "leg2-2.L"
+					
+				name: "leg3.L"
+				
+					name: "leg3-2.L"
+					
+				name: "leg4.L"
+				
+					name: "leg4-2.L"
+					
+				name: "Arm1.L"
+				
+					name: "Arm2.L"
+					
+						name: "ClawBig.L"
+						
+							name: "ClawSmal.L"
+							
+				name: "leg1.R"
+				
+					name: "leg1-2.R"
+					
+				name: "leg2.R"
+				
+					name: "leg2-2.R"
+					
+				name: "leg3.R"
+				
+					name: "leg3-2.R"
+					
+				name: "leg4.R"
+				
+					name: "leg4-2.R"
+					
+				name: "Arm1.R"
+				
+					name: "Arm2.R"
+					
+						name: "ClawBig.R"
+						
+							name: "ClawSmal.R"
+							
+
+[16:25:41.617710] [Import] [info] (th=7524) File loaded successfully
+[16:25:41.617747] [Import] [info] (th=7524) Meshes count: 0
+[16:25:41.617779] [Import] [info] (th=7524) Materials count: 0
+[16:25:57.423986] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\02_Скорпион\Scorp_attack.fbx
+[16:25:57.427869] [Import] [info] (th=7524) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Root"
+		
+			name: "Body"
+			
+				name: "tail1"
+				
+					name: "tail2"
+					
+						name: "tail3"
+						
+							name: "tail4"
+							
+								name: "tail5"
+								
+									name: "tail6"
+									
+										name: "Sting"
+										
+				name: "leg1.L"
+				
+					name: "leg1-2.L"
+					
+				name: "leg2.L"
+				
+					name: "leg2-2.L"
+					
+				name: "leg3.L"
+				
+					name: "leg3-2.L"
+					
+				name: "leg4.L"
+				
+					name: "leg4-2.L"
+					
+				name: "Arm1.L"
+				
+					name: "Arm2.L"
+					
+						name: "ClawBig.L"
+						
+							name: "ClawSmal.L"
+							
+				name: "leg1.R"
+				
+					name: "leg1-2.R"
+					
+				name: "leg2.R"
+				
+					name: "leg2-2.R"
+					
+				name: "leg3.R"
+				
+					name: "leg3-2.R"
+					
+				name: "leg4.R"
+				
+					name: "leg4-2.R"
+					
+				name: "Arm1.R"
+				
+					name: "Arm2.R"
+					
+						name: "ClawBig.R"
+						
+							name: "ClawSmal.R"
+							
+
+[16:25:57.427938] [Import] [info] (th=7524) File loaded successfully
+[16:25:57.428230] [Import] [info] (th=7524) Meshes count: 0
+[16:25:57.428292] [Import] [info] (th=7524) Materials count: 0
+[16:26:05.558543] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\02_Скорпион\Scorp_attack.fbx
+[16:26:05.562732] [Import] [info] (th=7524) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Root"
+		
+			name: "Body"
+			
+				name: "tail1"
+				
+					name: "tail2"
+					
+						name: "tail3"
+						
+							name: "tail4"
+							
+								name: "tail5"
+								
+									name: "tail6"
+									
+										name: "Sting"
+										
+				name: "leg1.L"
+				
+					name: "leg1-2.L"
+					
+				name: "leg2.L"
+				
+					name: "leg2-2.L"
+					
+				name: "leg3.L"
+				
+					name: "leg3-2.L"
+					
+				name: "leg4.L"
+				
+					name: "leg4-2.L"
+					
+				name: "Arm1.L"
+				
+					name: "Arm2.L"
+					
+						name: "ClawBig.L"
+						
+							name: "ClawSmal.L"
+							
+				name: "leg1.R"
+				
+					name: "leg1-2.R"
+					
+				name: "leg2.R"
+				
+					name: "leg2-2.R"
+					
+				name: "leg3.R"
+				
+					name: "leg3-2.R"
+					
+				name: "leg4.R"
+				
+					name: "leg4-2.R"
+					
+				name: "Arm1.R"
+				
+					name: "Arm2.R"
+					
+						name: "ClawBig.R"
+						
+							name: "ClawSmal.R"
+							
+
+[16:26:05.562830] [Import] [info] (th=7524) File loaded successfully
+[16:26:05.562902] [Import] [info] (th=7524) Meshes count: 0
+[16:26:05.562979] [Import] [info] (th=7524) Materials count: 0
+[16:26:27.652336] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\02_Скорпион\Scorp_idle.fbx
+[16:26:27.656242] [Import] [info] (th=7524) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Root"
+		
+			name: "Body"
+			
+				name: "tail1"
+				
+					name: "tail2"
+					
+						name: "tail3"
+						
+							name: "tail4"
+							
+								name: "tail5"
+								
+									name: "tail6"
+									
+										name: "Sting"
+										
+				name: "leg1.L"
+				
+					name: "leg1-2.L"
+					
+				name: "leg2.L"
+				
+					name: "leg2-2.L"
+					
+				name: "leg3.L"
+				
+					name: "leg3-2.L"
+					
+				name: "leg4.L"
+				
+					name: "leg4-2.L"
+					
+				name: "Arm1.L"
+				
+					name: "Arm2.L"
+					
+						name: "ClawBig.L"
+						
+							name: "ClawSmal.L"
+							
+				name: "leg1.R"
+				
+					name: "leg1-2.R"
+					
+				name: "leg2.R"
+				
+					name: "leg2-2.R"
+					
+				name: "leg3.R"
+				
+					name: "leg3-2.R"
+					
+				name: "leg4.R"
+				
+					name: "leg4-2.R"
+					
+				name: "Arm1.R"
+				
+					name: "Arm2.R"
+					
+						name: "ClawBig.R"
+						
+							name: "ClawSmal.R"
+							
+
+[16:26:27.656287] [Import] [info] (th=7524) File loaded successfully
+[16:26:27.656367] [Import] [info] (th=7524) Meshes count: 0
+[16:26:27.656427] [Import] [info] (th=7524) Materials count: 0
+[16:26:52.856770] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\02_Скорпион\Scorp_idle.fbx
+[16:26:52.870500] [Import] [info] (th=7524) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Root"
+		
+			name: "Body"
+			
+				name: "tail1"
+				
+					name: "tail2"
+					
+						name: "tail3"
+						
+							name: "tail4"
+							
+								name: "tail5"
+								
+									name: "tail6"
+									
+										name: "Sting"
+										
+				name: "leg1.L"
+				
+					name: "leg1-2.L"
+					
+				name: "leg2.L"
+				
+					name: "leg2-2.L"
+					
+				name: "leg3.L"
+				
+					name: "leg3-2.L"
+					
+				name: "leg4.L"
+				
+					name: "leg4-2.L"
+					
+				name: "Arm1.L"
+				
+					name: "Arm2.L"
+					
+						name: "ClawBig.L"
+						
+							name: "ClawSmal.L"
+							
+				name: "leg1.R"
+				
+					name: "leg1-2.R"
+					
+				name: "leg2.R"
+				
+					name: "leg2-2.R"
+					
+				name: "leg3.R"
+				
+					name: "leg3-2.R"
+					
+				name: "leg4.R"
+				
+					name: "leg4-2.R"
+					
+				name: "Arm1.R"
+				
+					name: "Arm2.R"
+					
+						name: "ClawBig.R"
+						
+							name: "ClawSmal.R"
+							
+
+[16:26:52.870547] [Import] [info] (th=7524) File loaded successfully
+[16:26:52.870585] [Import] [info] (th=7524) Meshes count: 0
+[16:26:52.870622] [Import] [info] (th=7524) Materials count: 0
+[16:27:33.137934] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\02_Скорпион\Scorp_attack.fbx
+[16:27:33.151462] [Import] [info] (th=7524) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Root"
+		
+			name: "Body"
+			
+				name: "tail1"
+				
+					name: "tail2"
+					
+						name: "tail3"
+						
+							name: "tail4"
+							
+								name: "tail5"
+								
+									name: "tail6"
+									
+										name: "Sting"
+										
+				name: "leg1.L"
+				
+					name: "leg1-2.L"
+					
+				name: "leg2.L"
+				
+					name: "leg2-2.L"
+					
+				name: "leg3.L"
+				
+					name: "leg3-2.L"
+					
+				name: "leg4.L"
+				
+					name: "leg4-2.L"
+					
+				name: "Arm1.L"
+				
+					name: "Arm2.L"
+					
+						name: "ClawBig.L"
+						
+							name: "ClawSmal.L"
+							
+				name: "leg1.R"
+				
+					name: "leg1-2.R"
+					
+				name: "leg2.R"
+				
+					name: "leg2-2.R"
+					
+				name: "leg3.R"
+				
+					name: "leg3-2.R"
+					
+				name: "leg4.R"
+				
+					name: "leg4-2.R"
+					
+				name: "Arm1.R"
+				
+					name: "Arm2.R"
+					
+						name: "ClawBig.R"
+						
+							name: "ClawSmal.R"
+							
+
+[16:27:33.151522] [Import] [info] (th=7524) File loaded successfully
+[16:27:33.151565] [Import] [info] (th=7524) Meshes count: 0
+[16:27:33.151601] [Import] [info] (th=7524) Materials count: 0
+[16:27:46.771446] [Import] [info] (th=7524) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\02_Скорпион\Scorp_walk.fbx
+[16:27:46.783014] [Import] [info] (th=7524) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Root"
+		
+			name: "Body"
+			
+				name: "tail1"
+				
+					name: "tail2"
+					
+						name: "tail3"
+						
+							name: "tail4"
+							
+								name: "tail5"
+								
+									name: "tail6"
+									
+										name: "Sting"
+										
+				name: "leg1.L"
+				
+					name: "leg1-2.L"
+					
+				name: "leg2.L"
+				
+					name: "leg2-2.L"
+					
+				name: "leg3.L"
+				
+					name: "leg3-2.L"
+					
+				name: "leg4.L"
+				
+					name: "leg4-2.L"
+					
+				name: "Arm1.L"
+				
+					name: "Arm2.L"
+					
+						name: "ClawBig.L"
+						
+							name: "ClawSmal.L"
+							
+				name: "leg1.R"
+				
+					name: "leg1-2.R"
+					
+				name: "leg2.R"
+				
+					name: "leg2-2.R"
+					
+				name: "leg3.R"
+				
+					name: "leg3-2.R"
+					
+				name: "leg4.R"
+				
+					name: "leg4-2.R"
+					
+				name: "Arm1.R"
+				
+					name: "Arm2.R"
+					
+						name: "ClawBig.R"
+						
+							name: "ClawSmal.R"
+							
+
+[16:27:46.783059] [Import] [info] (th=7524) File loaded successfully
+[16:27:46.783096] [Import] [info] (th=7524) Meshes count: 0
+[16:27:46.783132] [Import] [info] (th=7524) Materials count: 0

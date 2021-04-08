@@ -1,0 +1,20 @@
+{
+    "@class": "CollisionTrigger",
+    "id": {
+        "uuid": "CA6CCE51-C54F-4697-BE3B-616877F8CF11"
+    },
+    "ownerScriptId": {
+        "uuid": "4B25842D-7CE4-4EAC-B1E4-690887031C05"
+    },
+    "logicOperation": 0,
+    "resultType": 0,
+    "isInverted": false,
+    "eventType": "in",
+    "targetBindingLink": {
+        "@class": "BindingLink"
+    },
+    "zoneBindingLink": {
+        "@class": "BindingLink"
+    },
+    "allowed": false
+}

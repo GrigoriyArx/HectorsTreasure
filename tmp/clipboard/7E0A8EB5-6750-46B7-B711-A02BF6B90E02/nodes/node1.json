@@ -1,0 +1,84 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "594F0698-6229-4A6B-B315-34F3322975B8"
+            },
+            "name": "StemDark 3",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "A2FE4133-E5E3-423A-9D29-A4FC4122C359"
+                },
+                "static": true,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "9CCD9D54-8964-4DB3-A3CF-C7E3B2AD9E36"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -1.1920927533992654e-7,
+                        0.0,
+                        1.0,
+                        0.0,
+                        -0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        -1.0,
+                        -0.0,
+                        -1.1920927533992654e-7,
+                        0.0,
+                        62.099952697753909,
+                        6.299998760223389,
+                        -3.1999988555908205,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -1.1920927533992654e-7,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        -1.0,
+                        -0.0,
+                        -1.1920927533992654e-7,
+                        0.0,
+                        63.79995346069336,
+                        4.19999885559082,
+                        -3.1999988555908205,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "defaultobject",
+                "importedName": "defaultobject",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "022577B7-85C3-4B67-86F7-28CA33B9D080"
+        },
+        "is_asset_root": true,
+        "asset_name": "StemDark"
+    }
+]

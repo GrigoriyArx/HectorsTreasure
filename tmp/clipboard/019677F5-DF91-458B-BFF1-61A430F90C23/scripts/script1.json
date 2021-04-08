@@ -1,0 +1,215 @@
+{
+    "@class": "TimeLineScript",
+    "id": {
+        "uuid": "CB0E1D0B-8ECA-4B3B-8121-4663C4E5EBA2"
+    },
+    "name": "Animation",
+    "enableOnAwake": false,
+    "loop": true,
+    "jumpToFirstFrameAtEnd": false,
+    "speed": 1.0,
+    "weight": 1.0,
+    "loopStartTime": 0,
+    "loopDuration": 0,
+    "is_imported": false,
+    "type": "user",
+    "scripts": {
+        "@class": "StdListRuntimeScript",
+        "list": [
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "1656FF91-2273-4705-8144-24479C86EDBC"
+                },
+                "name": "FirePart1",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "682899CA-F496-4257-8DA9-525E8359CA49"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 0,
+                        "name": "Torchlight-0",
+                        "subaddress": {
+                            "@class": "NodeRelativeAddressBase",
+                            "index": 3,
+                            "name": "FirePart1"
+                        }
+                    }
+                },
+                "animation": {
+                    "uuid": "0EFCEF2C-2C1F-4381-80C4-59A5887B2A83"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "701C6AC6-E77A-4001-AA71-FCD5398E4FAC"
+                },
+                "name": "Point light",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "FDBDA832-5FFB-453A-8EB5-DC135BDD4AC4"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 0,
+                        "name": "Torchlight-0",
+                        "subaddress": {
+                            "@class": "NodeRelativeAddressBase",
+                            "index": 0,
+                            "name": "Point light"
+                        }
+                    }
+                },
+                "animation": {
+                    "uuid": "60035720-A89A-487A-81CA-973F480F64A9"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "C872383D-48E9-42EE-9FE9-F02CD3027195"
+                },
+                "name": "FirePart1 2",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "1DC2FFF3-2930-457A-B8C6-713747139784"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 0,
+                        "name": "Torchlight-0",
+                        "subaddress": {
+                            "@class": "NodeRelativeAddressBase",
+                            "index": 4,
+                            "name": "FirePart1 2"
+                        }
+                    }
+                },
+                "animation": {
+                    "uuid": "183A4608-1607-4675-8AA1-5579DB95DA8E"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "99BC1C10-81D5-44EB-9EEC-0B53AB2B3F2F"
+                },
+                "name": "FirePart1 3",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "D284A984-6FA0-402B-8311-17299ECD77EC"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 0,
+                        "name": "Torchlight-0",
+                        "subaddress": {
+                            "@class": "NodeRelativeAddressBase",
+                            "index": 5,
+                            "name": "FirePart1 3"
+                        }
+                    }
+                },
+                "animation": {
+                    "uuid": "3EF99DB8-2BFF-4DAA-8903-681E339D0C85"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "DA3D5A96-CCB5-4B95-86E4-9287106426A3"
+                },
+                "name": "FirePart1 4",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "5F397406-5868-4C61-A55B-1A0025346A11"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 0,
+                        "name": "Torchlight-0",
+                        "subaddress": {
+                            "@class": "NodeRelativeAddressBase",
+                            "index": 6,
+                            "name": "FirePart1 4"
+                        }
+                    }
+                },
+                "animation": {
+                    "uuid": "B10D6D03-3107-4583-8CB5-4C5AE2F66322"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "3C165A29-EA5B-4A36-BCDA-D9FC14C095E1"
+                },
+                "name": "FireBAse",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "3D30EC7F-7E73-415B-9647-81C0CA4BD343"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 0,
+                        "name": "Torchlight-0",
+                        "subaddress": {
+                            "@class": "NodeRelativeAddressBase",
+                            "index": 2,
+                            "name": "FireBAse"
+                        }
+                    }
+                },
+                "animation": {
+                    "uuid": "F86608FD-95F7-4227-A81E-1FFB26A35830"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            }
+        ]
+    },
+    "triggers": [
+        {
+            "@class": "StartTrigger",
+            "id": {
+                "uuid": "4CA96D53-98AA-447C-9103-FA1226DB85BC"
+            },
+            "ownerScriptId": {
+                "uuid": "CB0E1D0B-8ECA-4B3B-8121-4663C4E5EBA2"
+            },
+            "logicOperation": 0,
+            "resultType": 0,
+            "isInverted": false
+        }
+    ]
+}

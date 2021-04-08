@@ -1,0 +1,79 @@
+{
+    "@class": "TimeLineScript",
+    "id": {
+        "uuid": "79512F97-33E5-4B6A-93B3-3F8D58439483"
+    },
+    "name": "Animation",
+    "enableOnAwake": false,
+    "loop": true,
+    "jumpToFirstFrameAtEnd": false,
+    "speed": 1.0,
+    "weight": 1.0,
+    "loopStartTime": 0,
+    "loopDuration": 0,
+    "is_imported": false,
+    "type": "user",
+    "scripts": {
+        "@class": "StdListRuntimeScript",
+        "list": [
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "B26FE52B-9156-4D93-9108-F0C7303F7E13"
+                },
+                "name": "Guill_mesh",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "2A2F0DF9-33D2-4F87-8400-CD3CAA66B811"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 2,
+                        "name": "Guillotina 2",
+                        "subaddress": {
+                            "@class": "NodeRelativeAddressBase",
+                            "index": 1,
+                            "name": "Guill_mesh"
+                        }
+                    }
+                },
+                "animation": {
+                    "uuid": "1BAFCD72-288B-455A-B9DF-459CF9DCAE91"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            }
+        ]
+    },
+    "triggers": [
+        {
+            "@class": "CollisionTrigger",
+            "id": {
+                "uuid": "E3DB403B-331D-48DB-B316-6E7FDAFA4144"
+            },
+            "ownerScriptId": {
+                "uuid": "79512F97-33E5-4B6A-93B3-3F8D58439483"
+            },
+            "logicOperation": 0,
+            "resultType": 0,
+            "isInverted": false,
+            "eventType": "in",
+            "targetBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "F46E3C02-503F-48D8-B238-E3F3D950C221"
+                }
+            },
+            "zoneBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "31EBB1D0-0156-4E6E-9077-8600F9FC9F62"
+                }
+            },
+            "allowed": false
+        }
+    ]
+}
