@@ -1,0 +1,84 @@
+[17:51:47.088737] [Import] [info] (th=2604) Log level for 'Import' set to 'info'
+[17:51:47.088827] [Import] [info] (th=2604) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_Part2\Ground-11-0.obj
+[17:51:47.182326] [Import] [info] (th=2604) Imported scene tree:
+name: "Ground-11-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "000002D5E46BEB10"
+	 name: "defaultobject"
+	 numVertices: "45162"
+	 numFaces: "18916"
+	
+	
+
+[17:51:47.182371] [Import] [info] (th=2604) File loaded successfully
+[17:51:47.182409] [Import] [info] (th=2604) Meshes count: 1
+[17:51:47.182446] [Import] [info] (th=2604) Materials count: 2
+[17:51:47.182617] [Import] [warning] (th=2604) It seems that scene structure is different
+[17:56:24.694481] [Import] [info] (th=2604) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_Part2\Ground-11-0.obj
+[17:56:24.844893] [Import] [info] (th=2604) Imported scene tree:
+name: "Ground-11-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "000002D5E46BDB20"
+	 name: "defaultobject"
+	 numVertices: "68412"
+	 numFaces: "28478"
+	
+	
+
+[17:56:24.844935] [Import] [info] (th=2604) File loaded successfully
+[17:56:24.844969] [Import] [info] (th=2604) Meshes count: 1
+[17:56:24.845003] [Import] [info] (th=2604) Materials count: 2
+[17:56:24.845141] [Import] [warning] (th=2604) It seems that scene structure is different
+[18:05:08.121476] [Import] [info] (th=2604) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Decor\Gold_Sun1-0.obj
+[18:05:08.130620] [Import] [info] (th=2604) Imported scene tree:
+name: "Gold_Sun1-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "000002D5E46BB5F0"
+	 name: "defaultobject"
+	 numVertices: "828"
+	 numFaces: "314"
+	
+	
+
+[18:05:08.130663] [Import] [info] (th=2604) File loaded successfully
+[18:05:08.130696] [Import] [info] (th=2604) Meshes count: 1
+[18:05:08.130728] [Import] [info] (th=2604) Materials count: 2
+[18:05:08.162456] [Import] [info] (th=2604) Textures count (imported): 1
+[18:26:19.118237] [Import] [info] (th=2604) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Decor\Column2-0.obj
+[18:26:19.132553] [Import] [info] (th=2604) Imported scene tree:
+name: "Column2-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "000002D5E46B90C0"
+	 name: "defaultobject"
+	 numVertices: "4336"
+	 numFaces: "1596"
+	
+	
+
+[18:26:19.132675] [Import] [info] (th=2604) File loaded successfully
+[18:26:19.132715] [Import] [info] (th=2604) Meshes count: 1
+[18:26:19.132749] [Import] [info] (th=2604) Materials count: 2
+[18:31:31.901720] [Import] [info] (th=2604) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Decor\Stand_gold-0.obj
+[18:31:31.914359] [Import] [info] (th=2604) Imported scene tree:
+name: "Stand_gold-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "000002D5E46C1040"
+	 name: "defaultobject"
+	 numVertices: "2617"
+	 numFaces: "1076"
+	
+	
+
+[18:31:31.914411] [Import] [info] (th=2604) File loaded successfully
+[18:31:31.914469] [Import] [info] (th=2604) Meshes count: 1
+[18:31:31.914509] [Import] [info] (th=2604) Materials count: 2
