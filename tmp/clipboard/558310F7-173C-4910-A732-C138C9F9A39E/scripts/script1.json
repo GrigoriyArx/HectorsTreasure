@@ -1,0 +1,30 @@
+{
+    "@class": "AnimationScript",
+    "id": {
+        "uuid": "D5E0171C-0F22-4ECF-A865-DD39748EFF0D"
+    },
+    "name": "Idle",
+    "enableOnAwake": false,
+    "OwnerLink": {
+        "@class": "BindingLink",
+        "targetId": {
+            "uuid": "F7B2B160-8D4E-4FA8-A2DA-3FC783E4E16A"
+        },
+        "targetRelativeAddress": {
+            "@class": "NodeRelativeAddressBase",
+            "index": 2,
+            "name": "Mantis_Ai",
+            "subaddress": {
+                "@class": "NodeRelativeAddressBase",
+                "index": 0,
+                "name": "Idle"
+            }
+        }
+    },
+    "animation": {
+        "uuid": "B0AD0202-ACED-4329-8354-617C5FA2F944"
+    },
+    "AnimationType": "object3D",
+    "is_imported": false,
+    "isEnabled": false
+}

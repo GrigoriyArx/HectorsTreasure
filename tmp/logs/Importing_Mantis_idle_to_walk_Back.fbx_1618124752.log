@@ -1,0 +1,126 @@
+[10:05:52.087386] [Import] [info] (th=24700) Log level for 'Import' set to 'info'
+[10:05:52.109557] [Import] [info] (th=24700) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\03_Mantis\Mantis_idle_to_walk_Back.fbx
+[10:05:52.248247] [Import] [info] (th=24700) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "root"
+		
+			name: "body"
+			
+				name: "tail"
+				
+					name: "leg_front1.L"
+					
+						name: "leg_front2.L"
+						
+							name: "leg_front3.L"
+							
+					name: "leg_rear1.L"
+					
+						name: "leg_rear2.L"
+						
+							name: "leg_rear3.L"
+							
+					name: "leg_front1.R"
+					
+						name: "leg_front2.R"
+						
+							name: "leg_front3.R"
+							
+					name: "leg_rear1.R"
+					
+						name: "leg_rear2.R"
+						
+							name: "leg_rear3.R"
+							
+				name: "head"
+				
+				name: "shoulder.L"
+				
+					name: "arm.L"
+					
+						name: "claw.L"
+						
+				name: "shoulder.R"
+				
+					name: "arm.R"
+					
+						name: "claw.R"
+						
+
+[10:05:52.248292] [Import] [info] (th=24700) File loaded successfully
+[10:05:52.248326] [Import] [info] (th=24700) Meshes count: 0
+[10:05:52.248358] [Import] [info] (th=24700) Materials count: 0
+[10:06:14.325376] [Import] [info] (th=24700) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\03_Mantis\Mantis_idle_to_walk_Back.fbx
+[10:06:14.334097] [Import] [info] (th=24700) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "root"
+		
+			name: "body"
+			
+				name: "tail"
+				
+					name: "leg_front1.L"
+					
+						name: "leg_front2.L"
+						
+							name: "leg_front3.L"
+							
+					name: "leg_rear1.L"
+					
+						name: "leg_rear2.L"
+						
+							name: "leg_rear3.L"
+							
+					name: "leg_front1.R"
+					
+						name: "leg_front2.R"
+						
+							name: "leg_front3.R"
+							
+					name: "leg_rear1.R"
+					
+						name: "leg_rear2.R"
+						
+							name: "leg_rear3.R"
+							
+				name: "head"
+				
+				name: "shoulder.L"
+				
+					name: "arm.L"
+					
+						name: "claw.L"
+						
+				name: "shoulder.R"
+				
+					name: "arm.R"
+					
+						name: "claw.R"
+						
+
+[10:06:14.334143] [Import] [info] (th=24700) File loaded successfully
+[10:06:14.334197] [Import] [info] (th=24700) Meshes count: 0
+[10:06:14.334232] [Import] [info] (th=24700) Materials count: 0
+[12:09:48.380820] [Import] [info] (th=24700) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_Part2\Ground-11-0.obj
+[12:09:48.569279] [Import] [info] (th=24700) Imported scene tree:
+name: "Ground-11-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "000001CA07C8FE80"
+	 name: "defaultobject"
+	 numVertices: "70614"
+	 numFaces: "29348"
+	
+	
+
+[12:09:48.569329] [Import] [info] (th=24700) File loaded successfully
+[12:09:48.569369] [Import] [info] (th=24700) Meshes count: 1
+[12:09:48.569407] [Import] [info] (th=24700) Materials count: 2
+[12:09:48.578987] [Import] [warning] (th=24700) It seems that scene structure is different

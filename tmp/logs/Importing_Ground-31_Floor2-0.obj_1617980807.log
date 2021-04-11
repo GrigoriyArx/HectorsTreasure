@@ -1,0 +1,120 @@
+[18:06:47.973711] [Import] [info] (th=13088) Log level for 'Import' set to 'info'
+[18:06:47.973849] [Import] [info] (th=13088) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_Part2\Ground-31_Floor2-0.obj
+[18:06:48.043605] [Import] [info] (th=13088) Imported scene tree:
+name: "Ground-31_Floor2-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000020F14A46240"
+	 name: "defaultobject"
+	 numVertices: "24857"
+	 numFaces: "10808"
+	
+	
+
+[18:06:48.043652] [Import] [info] (th=13088) File loaded successfully
+[18:06:48.043688] [Import] [info] (th=13088) Meshes count: 1
+[18:06:48.043723] [Import] [info] (th=13088) Materials count: 2
+[18:06:48.044051] [Import] [info] (th=13088) Textures count (imported): 1
+[18:08:22.099488] [Import] [info] (th=13088) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_Part2\Ground-32-0.obj
+[18:08:22.127133] [Import] [info] (th=13088) Imported scene tree:
+name: "Ground-32-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000020F14A49CB0"
+	 name: "defaultobject"
+	 numVertices: "11550"
+	 numFaces: "5016"
+	
+	
+
+[18:08:22.127178] [Import] [info] (th=13088) File loaded successfully
+[18:08:22.127213] [Import] [info] (th=13088) Meshes count: 1
+[18:08:22.127248] [Import] [info] (th=13088) Materials count: 2
+[18:08:22.127527] [Import] [info] (th=13088) Textures count (imported): 1
+[18:10:30.484923] [Import] [info] (th=13088) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Decor\Tumb_for_Press-0.obj
+[18:10:30.499699] [Import] [info] (th=13088) Imported scene tree:
+name: "Tumb_for_Press-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000020F131FB890"
+	 name: "defaultobject"
+	 numVertices: "5097"
+	 numFaces: "2028"
+	
+	
+
+[18:10:30.499808] [Import] [info] (th=13088) File loaded successfully
+[18:10:30.499843] [Import] [info] (th=13088) Meshes count: 1
+[18:10:30.499880] [Import] [info] (th=13088) Materials count: 2
+[18:10:30.500134] [Import] [info] (th=13088) Textures count (imported): 1
+[18:57:44.659007] [Import] [info] (th=13088) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Stuff\Press-0.obj
+[18:57:44.670807] [Import] [info] (th=13088) Imported scene tree:
+name: "Press-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000020F9B27FAA0"
+	 name: "defaultobject"
+	 numVertices: "3523"
+	 numFaces: "1412"
+	
+	
+
+[18:57:44.670884] [Import] [info] (th=13088) File loaded successfully
+[18:57:44.671007] [Import] [info] (th=13088) Meshes count: 1
+[18:57:44.671044] [Import] [info] (th=13088) Materials count: 2
+[18:57:44.671310] [Import] [info] (th=13088) Textures count (imported): 1
+[18:58:48.092974] [Import] [info] (th=13088) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Stuff\Press_Button-0.obj
+[18:58:48.103837] [Import] [info] (th=13088) Imported scene tree:
+name: "Press_Button-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000020F9B2785C0"
+	 name: "defaultobject"
+	 numVertices: "1697"
+	 numFaces: "716"
+	
+	
+
+[18:58:48.103885] [Import] [info] (th=13088) File loaded successfully
+[18:58:48.103920] [Import] [info] (th=13088) Meshes count: 1
+[18:58:48.103954] [Import] [info] (th=13088) Materials count: 2
+[18:58:48.104203] [Import] [info] (th=13088) Textures count (imported): 1
+[19:00:06.781368] [Import] [info] (th=13088) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Stuff\Press_Button-1.obj
+[19:00:06.789794] [Import] [info] (th=13088) Imported scene tree:
+name: "Press_Button-1.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000020F9B27D570"
+	 name: "defaultobject"
+	 numVertices: "550"
+	 numFaces: "228"
+	
+	
+
+[19:00:06.789838] [Import] [info] (th=13088) File loaded successfully
+[19:00:06.789872] [Import] [info] (th=13088) Meshes count: 1
+[19:00:06.789907] [Import] [info] (th=13088) Materials count: 2
+[19:00:06.790151] [Import] [info] (th=13088) Textures count (imported): 1
+[20:22:41.790677] [Import] [info] (th=13088) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\03_Mantis\Mantis_blood.fbx
+[20:22:41.804252] [Import] [info] (th=13088) Imported scene tree:
+name: "RootNode"
+
+	name: "Blood.001"
+	numMeshes: 1
+	 addr: "0000020F9B27A050"
+	 name: "Splash.004"
+	 numVertices: "829"
+	 numFaces: "412"
+	
+	
+
+[20:22:41.804301] [Import] [info] (th=13088) File loaded successfully
+[20:22:41.804336] [Import] [info] (th=13088) Meshes count: 1
+[20:22:41.804434] [Import] [info] (th=13088) Materials count: 1
+[20:22:41.804548] [Import] [info] (th=13088) Textures count (imported): 0

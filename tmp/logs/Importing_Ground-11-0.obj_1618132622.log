@@ -1,0 +1,18 @@
+[12:17:02.292093] [Import] [info] (th=15936) Log level for 'Import' set to 'info'
+[12:17:02.292181] [Import] [info] (th=15936) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_Part2\Ground-11-0.obj
+[12:17:02.448661] [Import] [info] (th=15936) Imported scene tree:
+name: "Ground-11-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000019DF2093B20"
+	 name: "defaultobject"
+	 numVertices: "70614"
+	 numFaces: "29348"
+	
+	
+
+[12:17:02.448786] [Import] [info] (th=15936) File loaded successfully
+[12:17:02.448856] [Import] [info] (th=15936) Meshes count: 1
+[12:17:02.448937] [Import] [info] (th=15936) Materials count: 2
+[12:17:02.449218] [Import] [warning] (th=15936) It seems that scene structure is different

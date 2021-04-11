@@ -1,0 +1,651 @@
+[13:11:42.305723] [Import] [info] (th=23204) Log level for 'Import' set to 'info'
+[13:11:42.327733] [Import] [info] (th=23204) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\03_Mantis\Mantis_T-pose.fbx
+[13:11:42.480945] [Import] [info] (th=23204) Imported scene tree:
+name: "RootNode"
+
+	name: "Mantis-0"
+	numMeshes: 1
+	 addr: "000001346A9D4A20"
+	 name: "Mantis-0"
+	 numVertices: "11567"
+	 numFaces: "4168"
+	
+	
+	name: "Armature"
+	
+		name: "root"
+		
+			name: "body"
+			
+				name: "tail"
+				
+					name: "leg_front1.L"
+					
+						name: "leg_front2.L"
+						
+							name: "leg_front3.L"
+							
+					name: "leg_rear1.L"
+					
+						name: "leg_rear2.L"
+						
+							name: "leg_rear3.L"
+							
+					name: "leg_front1.R"
+					
+						name: "leg_front2.R"
+						
+							name: "leg_front3.R"
+							
+					name: "leg_rear1.R"
+					
+						name: "leg_rear2.R"
+						
+							name: "leg_rear3.R"
+							
+				name: "head"
+				
+				name: "shoulder.L"
+				
+					name: "arm.L"
+					
+						name: "claw.L"
+						
+				name: "shoulder.R"
+				
+					name: "arm.R"
+					
+						name: "claw.R"
+						
+
+[13:11:42.480991] [Import] [info] (th=23204) File loaded successfully
+[13:11:42.481156] [Import] [info] (th=23204) Meshes count: 1
+[13:11:42.481203] [Import] [info] (th=23204) Materials count: 1
+[13:11:42.481507] [Import] [info] (th=23204) Textures count (imported): 1
+[13:12:20.392034] [Import] [info] (th=23204) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\03_Mantis\Mantis_idle.fbx
+[13:12:20.412563] [Import] [info] (th=23204) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "root"
+		
+			name: "body"
+			
+				name: "tail"
+				
+					name: "leg_front1.L"
+					
+						name: "leg_front2.L"
+						
+							name: "leg_front3.L"
+							
+					name: "leg_rear1.L"
+					
+						name: "leg_rear2.L"
+						
+							name: "leg_rear3.L"
+							
+					name: "leg_front1.R"
+					
+						name: "leg_front2.R"
+						
+							name: "leg_front3.R"
+							
+					name: "leg_rear1.R"
+					
+						name: "leg_rear2.R"
+						
+							name: "leg_rear3.R"
+							
+				name: "head"
+				
+				name: "shoulder.L"
+				
+					name: "arm.L"
+					
+						name: "claw.L"
+						
+				name: "shoulder.R"
+				
+					name: "arm.R"
+					
+						name: "claw.R"
+						
+
+[13:12:20.412608] [Import] [info] (th=23204) File loaded successfully
+[13:12:20.412641] [Import] [info] (th=23204) Meshes count: 0
+[13:12:20.412674] [Import] [info] (th=23204) Materials count: 0
+[13:21:41.020232] [Import] [info] (th=23204) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\03_Mantis\Mantis_attack.fbx
+[13:21:41.028404] [Import] [info] (th=23204) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "root"
+		
+			name: "body"
+			
+				name: "tail"
+				
+					name: "leg_front1.L"
+					
+						name: "leg_front2.L"
+						
+							name: "leg_front3.L"
+							
+					name: "leg_rear1.L"
+					
+						name: "leg_rear2.L"
+						
+							name: "leg_rear3.L"
+							
+					name: "leg_front1.R"
+					
+						name: "leg_front2.R"
+						
+							name: "leg_front3.R"
+							
+					name: "leg_rear1.R"
+					
+						name: "leg_rear2.R"
+						
+							name: "leg_rear3.R"
+							
+				name: "head"
+				
+				name: "shoulder.L"
+				
+					name: "arm.L"
+					
+						name: "claw.L"
+						
+				name: "shoulder.R"
+				
+					name: "arm.R"
+					
+						name: "claw.R"
+						
+
+[13:21:41.028450] [Import] [info] (th=23204) File loaded successfully
+[13:21:41.028484] [Import] [info] (th=23204) Meshes count: 0
+[13:21:41.028519] [Import] [info] (th=23204) Materials count: 0
+[13:22:01.244155] [Import] [info] (th=23204) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\03_Mantis\Mantis_death.fbx
+[13:22:01.251588] [Import] [info] (th=23204) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "root"
+		
+			name: "body"
+			
+				name: "tail"
+				
+					name: "leg_front1.L"
+					
+						name: "leg_front2.L"
+						
+							name: "leg_front3.L"
+							
+					name: "leg_rear1.L"
+					
+						name: "leg_rear2.L"
+						
+							name: "leg_rear3.L"
+							
+					name: "leg_front1.R"
+					
+						name: "leg_front2.R"
+						
+							name: "leg_front3.R"
+							
+					name: "leg_rear1.R"
+					
+						name: "leg_rear2.R"
+						
+							name: "leg_rear3.R"
+							
+				name: "head"
+				
+				name: "shoulder.L"
+				
+					name: "arm.L"
+					
+						name: "claw.L"
+						
+				name: "shoulder.R"
+				
+					name: "arm.R"
+					
+						name: "claw.R"
+						
+
+[13:22:01.251632] [Import] [info] (th=23204) File loaded successfully
+[13:22:01.251665] [Import] [info] (th=23204) Meshes count: 0
+[13:22:01.251699] [Import] [info] (th=23204) Materials count: 0
+[13:22:10.967497] [Import] [info] (th=23204) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\03_Mantis\Mantis_shake.fbx
+[13:22:10.976049] [Import] [info] (th=23204) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "root"
+		
+			name: "body"
+			
+				name: "tail"
+				
+					name: "leg_front1.L"
+					
+						name: "leg_front2.L"
+						
+							name: "leg_front3.L"
+							
+					name: "leg_rear1.L"
+					
+						name: "leg_rear2.L"
+						
+							name: "leg_rear3.L"
+							
+					name: "leg_front1.R"
+					
+						name: "leg_front2.R"
+						
+							name: "leg_front3.R"
+							
+					name: "leg_rear1.R"
+					
+						name: "leg_rear2.R"
+						
+							name: "leg_rear3.R"
+							
+				name: "head"
+				
+				name: "shoulder.L"
+				
+					name: "arm.L"
+					
+						name: "claw.L"
+						
+				name: "shoulder.R"
+				
+					name: "arm.R"
+					
+						name: "claw.R"
+						
+
+[13:22:10.976106] [Import] [info] (th=23204) File loaded successfully
+[13:22:10.976143] [Import] [info] (th=23204) Meshes count: 0
+[13:22:10.976179] [Import] [info] (th=23204) Materials count: 0
+[13:22:23.634012] [Import] [info] (th=23204) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\03_Mantis\Mantis_walk.fbx
+[13:22:23.641665] [Import] [info] (th=23204) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "root"
+		
+			name: "body"
+			
+				name: "tail"
+				
+					name: "leg_front1.L"
+					
+						name: "leg_front2.L"
+						
+							name: "leg_front3.L"
+							
+					name: "leg_rear1.L"
+					
+						name: "leg_rear2.L"
+						
+							name: "leg_rear3.L"
+							
+					name: "leg_front1.R"
+					
+						name: "leg_front2.R"
+						
+							name: "leg_front3.R"
+							
+					name: "leg_rear1.R"
+					
+						name: "leg_rear2.R"
+						
+							name: "leg_rear3.R"
+							
+				name: "head"
+				
+				name: "shoulder.L"
+				
+					name: "arm.L"
+					
+						name: "claw.L"
+						
+				name: "shoulder.R"
+				
+					name: "arm.R"
+					
+						name: "claw.R"
+						
+
+[13:22:23.641760] [Import] [info] (th=23204) File loaded successfully
+[13:22:23.641806] [Import] [info] (th=23204) Meshes count: 0
+[13:22:23.641841] [Import] [info] (th=23204) Materials count: 0
+[13:33:37.768981] [Import] [info] (th=23204) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\03_Mantis\Mantis_jump_attack.fbx
+[13:33:37.848263] [Import] [info] (th=23204) Imported scene tree:
+name: "RootNode"
+
+	name: "Mantis-0"
+	numMeshes: 1
+	 addr: "000001347F344B30"
+	 name: "Mantis-0"
+	 numVertices: "11529"
+	 numFaces: "4168"
+	
+	
+	name: "Armature"
+	
+		name: "root"
+		
+			name: "body"
+			
+				name: "tail"
+				
+					name: "leg_front1.L"
+					
+						name: "leg_front2.L"
+						
+							name: "leg_front3.L"
+							
+								name: "leg_front3.L_end"
+								
+					name: "leg_rear1.L"
+					
+						name: "leg_rear2.L"
+						
+							name: "leg_rear3.L"
+							
+								name: "leg_rear3.L_end"
+								
+					name: "leg_front1.R"
+					
+						name: "leg_front2.R"
+						
+							name: "leg_front3.R"
+							
+								name: "leg_front3.R_end"
+								
+					name: "leg_rear1.R"
+					
+						name: "leg_rear2.R"
+						
+							name: "leg_rear3.R"
+							
+								name: "leg_rear3.R_end"
+								
+				name: "head"
+				
+					name: "head_end"
+					
+				name: "shoulder.L"
+				
+					name: "arm.L"
+					
+						name: "claw.L"
+						
+							name: "claw.L_end"
+							
+				name: "shoulder.R"
+				
+					name: "arm.R"
+					
+						name: "claw.R"
+						
+							name: "claw.R_end"
+							
+			name: "IK_hand.L"
+			
+				name: "IK_elbow.L"
+				
+					name: "IK_elbow.L_end"
+					
+			name: "IK_leg_front.L"
+			
+				name: "IK_leg_front.L_end"
+				
+			name: "IK_leg_rear.L"
+			
+				name: "IK_leg_rear.L_end"
+				
+			name: "IK_hand.R"
+			
+				name: "IK_elbow.R"
+				
+					name: "IK_elbow.R_end"
+					
+			name: "IK_leg_front.R"
+			
+				name: "IK_leg_front.R_end"
+				
+			name: "IK_leg_rear.R"
+			
+				name: "IK_leg_rear.R_end"
+				
+			name: "IK_knee_front.L"
+			
+				name: "IK_knee_front.L_end"
+				
+			name: "IK_knee_rear.L"
+			
+				name: "IK_knee_rear.L_end"
+				
+			name: "IK_knee_front.R"
+			
+				name: "IK_knee_front.R_end"
+				
+			name: "IK_knee_rear.R"
+			
+				name: "IK_knee_rear.R_end"
+				
+
+[13:33:37.848309] [Import] [info] (th=23204) File loaded successfully
+[13:33:37.848344] [Import] [info] (th=23204) Meshes count: 1
+[13:33:37.848377] [Import] [info] (th=23204) Materials count: 1
+[13:33:37.850263] [Import] [error] (th=23204) Cannot find node: IK_elbow.L
+[13:33:37.850332] [Import] [error] (th=23204) Cannot find node: IK_elbow.R
+[13:33:37.850449] [Import] [error] (th=23204) Cannot find node: IK_hand.L
+[13:33:37.850620] [Import] [error] (th=23204) Cannot find node: IK_hand.R
+[13:33:37.850793] [Import] [error] (th=23204) Cannot find node: IK_knee_front.L
+[13:33:37.850929] [Import] [error] (th=23204) Cannot find node: IK_knee_front.R
+[13:33:37.851014] [Import] [error] (th=23204) Cannot find node: IK_knee_rear.L
+[13:33:37.851085] [Import] [error] (th=23204) Cannot find node: IK_knee_rear.R
+[13:33:37.851154] [Import] [error] (th=23204) Cannot find node: IK_leg_front.L
+[13:33:37.851223] [Import] [error] (th=23204) Cannot find node: IK_leg_front.R
+[13:33:37.851291] [Import] [error] (th=23204) Cannot find node: IK_leg_rear.L
+[13:33:37.851367] [Import] [error] (th=23204) Cannot find node: IK_leg_rear.R
+[13:33:37.852250] [Import] [error] (th=23204) Cannot find node: IK_elbow.L
+[13:33:37.852320] [Import] [error] (th=23204) Cannot find node: IK_elbow.R
+[13:33:37.852397] [Import] [error] (th=23204) Cannot find node: IK_hand.L
+[13:33:37.852516] [Import] [error] (th=23204) Cannot find node: IK_hand.R
+[13:33:37.852604] [Import] [error] (th=23204) Cannot find node: IK_knee_front.L
+[13:33:37.852755] [Import] [error] (th=23204) Cannot find node: IK_knee_front.R
+[13:33:37.852826] [Import] [error] (th=23204) Cannot find node: IK_knee_rear.L
+[13:33:37.852894] [Import] [error] (th=23204) Cannot find node: IK_knee_rear.R
+[13:33:37.852963] [Import] [error] (th=23204) Cannot find node: IK_leg_front.L
+[13:33:37.853031] [Import] [error] (th=23204) Cannot find node: IK_leg_front.R
+[13:33:37.853099] [Import] [error] (th=23204) Cannot find node: IK_leg_rear.L
+[13:33:37.853166] [Import] [error] (th=23204) Cannot find node: IK_leg_rear.R
+[13:33:37.854004] [Import] [error] (th=23204) Cannot find node: IK_elbow.L
+[13:33:37.854074] [Import] [error] (th=23204) Cannot find node: IK_elbow.R
+[13:33:37.854142] [Import] [error] (th=23204) Cannot find node: IK_hand.L
+[13:33:37.854210] [Import] [error] (th=23204) Cannot find node: IK_hand.R
+[13:33:37.854292] [Import] [error] (th=23204) Cannot find node: IK_knee_front.L
+[13:33:37.854371] [Import] [error] (th=23204) Cannot find node: IK_knee_front.R
+[13:33:37.854440] [Import] [error] (th=23204) Cannot find node: IK_knee_rear.L
+[13:33:37.854509] [Import] [error] (th=23204) Cannot find node: IK_knee_rear.R
+[13:33:37.854582] [Import] [error] (th=23204) Cannot find node: IK_leg_front.L
+[13:33:37.854651] [Import] [error] (th=23204) Cannot find node: IK_leg_front.R
+[13:33:37.854719] [Import] [error] (th=23204) Cannot find node: IK_leg_rear.L
+[13:33:37.854787] [Import] [error] (th=23204) Cannot find node: IK_leg_rear.R
+[13:33:37.855749] [Import] [error] (th=23204) Cannot find node: IK_elbow.L
+[13:33:37.855820] [Import] [error] (th=23204) Cannot find node: IK_elbow.R
+[13:33:37.855891] [Import] [error] (th=23204) Cannot find node: IK_hand.L
+[13:33:37.855959] [Import] [error] (th=23204) Cannot find node: IK_hand.R
+[13:33:37.856027] [Import] [error] (th=23204) Cannot find node: IK_knee_front.L
+[13:33:37.856096] [Import] [error] (th=23204) Cannot find node: IK_knee_front.R
+[13:33:37.856164] [Import] [error] (th=23204) Cannot find node: IK_knee_rear.L
+[13:33:37.856233] [Import] [error] (th=23204) Cannot find node: IK_knee_rear.R
+[13:33:37.856301] [Import] [error] (th=23204) Cannot find node: IK_leg_front.L
+[13:33:37.856377] [Import] [error] (th=23204) Cannot find node: IK_leg_front.R
+[13:33:37.856512] [Import] [error] (th=23204) Cannot find node: IK_leg_rear.L
+[13:33:37.856604] [Import] [error] (th=23204) Cannot find node: IK_leg_rear.R
+[13:33:37.857435] [Import] [error] (th=23204) Cannot find node: IK_elbow.L
+[13:33:37.857511] [Import] [error] (th=23204) Cannot find node: IK_elbow.R
+[13:33:37.857592] [Import] [error] (th=23204) Cannot find node: IK_hand.L
+[13:33:37.857669] [Import] [error] (th=23204) Cannot find node: IK_hand.R
+[13:33:37.857744] [Import] [error] (th=23204) Cannot find node: IK_knee_front.L
+[13:33:37.857819] [Import] [error] (th=23204) Cannot find node: IK_knee_front.R
+[13:33:37.857895] [Import] [error] (th=23204) Cannot find node: IK_knee_rear.L
+[13:33:37.857970] [Import] [error] (th=23204) Cannot find node: IK_knee_rear.R
+[13:33:37.858045] [Import] [error] (th=23204) Cannot find node: IK_leg_front.L
+[13:33:37.858121] [Import] [error] (th=23204) Cannot find node: IK_leg_front.R
+[13:33:37.858196] [Import] [error] (th=23204) Cannot find node: IK_leg_rear.L
+[13:33:37.858275] [Import] [error] (th=23204) Cannot find node: IK_leg_rear.R
+[13:33:37.859207] [Import] [error] (th=23204) Cannot find node: IK_elbow.L
+[13:33:37.859283] [Import] [error] (th=23204) Cannot find node: IK_elbow.R
+[13:33:37.859364] [Import] [error] (th=23204) Cannot find node: IK_hand.L
+[13:33:37.859440] [Import] [error] (th=23204) Cannot find node: IK_hand.R
+[13:33:37.859518] [Import] [error] (th=23204) Cannot find node: IK_knee_front.L
+[13:33:37.859597] [Import] [error] (th=23204) Cannot find node: IK_knee_front.R
+[13:33:37.859673] [Import] [error] (th=23204) Cannot find node: IK_knee_rear.L
+[13:33:37.859749] [Import] [error] (th=23204) Cannot find node: IK_knee_rear.R
+[13:33:37.859824] [Import] [error] (th=23204) Cannot find node: IK_leg_front.L
+[13:33:37.859899] [Import] [error] (th=23204) Cannot find node: IK_leg_front.R
+[13:33:37.859975] [Import] [error] (th=23204) Cannot find node: IK_leg_rear.L
+[13:33:37.860050] [Import] [error] (th=23204) Cannot find node: IK_leg_rear.R
+[13:33:37.860962] [Import] [error] (th=23204) File's animations are incompatible with the selected MANU's node
+[13:33:59.948163] [Import] [info] (th=23204) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\03_Mantis\Mantis_jump_attack.fbx
+[13:33:59.970378] [Import] [info] (th=23204) Imported scene tree:
+name: "RootNode"
+
+	name: "Mantis-0"
+	numMeshes: 1
+	 addr: "000001347F34FFD0"
+	 name: "Mantis-0"
+	 numVertices: "11567"
+	 numFaces: "4168"
+	
+	
+	name: "Armature"
+	
+		name: "root"
+		
+			name: "body"
+			
+				name: "tail"
+				
+					name: "leg_front1.L"
+					
+						name: "leg_front2.L"
+						
+							name: "leg_front3.L"
+							
+					name: "leg_rear1.L"
+					
+						name: "leg_rear2.L"
+						
+							name: "leg_rear3.L"
+							
+					name: "leg_front1.R"
+					
+						name: "leg_front2.R"
+						
+							name: "leg_front3.R"
+							
+					name: "leg_rear1.R"
+					
+						name: "leg_rear2.R"
+						
+							name: "leg_rear3.R"
+							
+				name: "head"
+				
+				name: "shoulder.L"
+				
+					name: "arm.L"
+					
+						name: "claw.L"
+						
+				name: "shoulder.R"
+				
+					name: "arm.R"
+					
+						name: "claw.R"
+						
+
+[13:33:59.970424] [Import] [info] (th=23204) File loaded successfully
+[13:33:59.970458] [Import] [info] (th=23204) Meshes count: 1
+[13:33:59.970491] [Import] [info] (th=23204) Materials count: 1
+[13:49:27.227297] [Import] [info] (th=23204) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\03_Mantis\Mantis_walk_back.fbx
+[13:49:27.248579] [Import] [info] (th=23204) Imported scene tree:
+name: "RootNode"
+
+	name: "Mantis-0"
+	numMeshes: 1
+	 addr: "000001346F4C5AB0"
+	 name: "Mantis-0"
+	 numVertices: "11567"
+	 numFaces: "4168"
+	
+	
+	name: "Armature"
+	
+		name: "root"
+		
+			name: "body"
+			
+				name: "tail"
+				
+					name: "leg_front1.L"
+					
+						name: "leg_front2.L"
+						
+							name: "leg_front3.L"
+							
+					name: "leg_rear1.L"
+					
+						name: "leg_rear2.L"
+						
+							name: "leg_rear3.L"
+							
+					name: "leg_front1.R"
+					
+						name: "leg_front2.R"
+						
+							name: "leg_front3.R"
+							
+					name: "leg_rear1.R"
+					
+						name: "leg_rear2.R"
+						
+							name: "leg_rear3.R"
+							
+				name: "head"
+				
+				name: "shoulder.L"
+				
+					name: "arm.L"
+					
+						name: "claw.L"
+						
+				name: "shoulder.R"
+				
+					name: "arm.R"
+					
+						name: "claw.R"
+						
+
+[13:49:27.248624] [Import] [info] (th=23204) File loaded successfully
+[13:49:27.248657] [Import] [info] (th=23204) Meshes count: 1
+[13:49:27.248690] [Import] [info] (th=23204) Materials count: 1

@@ -1,0 +1,69 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "3FDE9B10-A415-4AFB-89E9-8DF7FF307A5A"
+            },
+            "name": "Death",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "timeline": {
+                "@class": "BaseComponentTimeline",
+                "timelineId": {
+                    "uuid": "518117EE-72B7-4C61-848D-567FE28CD862"
+                }
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -7.748600694412744e-8,
+                        0.0,
+                        0.6499997973442078,
+                        0.0,
+                        0.0,
+                        0.6499998569488525,
+                        0.0,
+                        0.0,
+                        -0.6499998569488525,
+                        0.0,
+                        -7.748602826040951e-8,
+                        0.0,
+                        140.09547424316407,
+                        0.5035400390625,
+                        -2.6375347218776657e-12,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        }
+    }
+]

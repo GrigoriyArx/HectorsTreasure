@@ -1,0 +1,40 @@
+{
+    "@class": "GroupTrigger",
+    "id": {
+        "uuid": "32BD3931-82C3-40A1-AEC5-A31A9E549B06"
+    },
+    "ownerScriptId": {
+        "uuid": "841ECE9E-2AE6-4F69-A60B-3C04B9B0C61D"
+    },
+    "logicOperation": 0,
+    "resultType": 0,
+    "isInverted": false,
+    "triggers": [
+        {
+            "@class": "CollisionTrigger",
+            "id": {
+                "uuid": "9B11EC50-A455-4FFA-9DDF-D6C3FC38913D"
+            },
+            "ownerScriptId": {
+                "uuid": "841ECE9E-2AE6-4F69-A60B-3C04B9B0C61D"
+            },
+            "logicOperation": 0,
+            "resultType": 0,
+            "isInverted": false,
+            "eventType": "in",
+            "targetBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "67AC47D4-BD7E-43C0-A5D2-B9654558A3A9"
+                }
+            },
+            "zoneBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "1E321F92-C784-43CC-81F5-03E1D518ABBE"
+                }
+            },
+            "allowed": true
+        }
+    ]
+}

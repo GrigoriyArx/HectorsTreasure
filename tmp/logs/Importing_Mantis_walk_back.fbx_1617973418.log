@@ -1,0 +1,210 @@
+[16:03:38.051313] [Import] [info] (th=11536) Log level for 'Import' set to 'info'
+[16:03:38.051397] [Import] [info] (th=11536) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\03_Mantis\Mantis_walk_back.fbx
+[16:03:38.072372] [Import] [info] (th=11536) Imported scene tree:
+name: "RootNode"
+
+	name: "Mantis-0"
+	numMeshes: 1
+	 addr: "000001C69850D8F0"
+	 name: "Mantis-0"
+	 numVertices: "11567"
+	 numFaces: "4168"
+	
+	
+	name: "Armature"
+	
+		name: "root"
+		
+			name: "body"
+			
+				name: "tail"
+				
+					name: "leg_front1.L"
+					
+						name: "leg_front2.L"
+						
+							name: "leg_front3.L"
+							
+					name: "leg_rear1.L"
+					
+						name: "leg_rear2.L"
+						
+							name: "leg_rear3.L"
+							
+					name: "leg_front1.R"
+					
+						name: "leg_front2.R"
+						
+							name: "leg_front3.R"
+							
+					name: "leg_rear1.R"
+					
+						name: "leg_rear2.R"
+						
+							name: "leg_rear3.R"
+							
+				name: "head"
+				
+				name: "shoulder.L"
+				
+					name: "arm.L"
+					
+						name: "claw.L"
+						
+				name: "shoulder.R"
+				
+					name: "arm.R"
+					
+						name: "claw.R"
+						
+
+[16:03:38.072417] [Import] [info] (th=11536) File loaded successfully
+[16:03:38.072451] [Import] [info] (th=11536) Meshes count: 1
+[16:03:38.072485] [Import] [info] (th=11536) Materials count: 1
+[16:03:38.073393] [Import] [error] (th=11536) Cannot find node: arm.L
+[16:03:38.073463] [Import] [error] (th=11536) Cannot find node: arm.R
+[16:03:38.073532] [Import] [error] (th=11536) Cannot find node: body
+[16:03:38.073600] [Import] [error] (th=11536) Cannot find node: claw.L
+[16:03:38.073669] [Import] [error] (th=11536) Cannot find node: claw.R
+[16:03:38.073738] [Import] [error] (th=11536) Cannot find node: head
+[16:03:38.073815] [Import] [error] (th=11536) Cannot find node: leg_front1.L
+[16:03:38.073884] [Import] [error] (th=11536) Cannot find node: leg_front1.R
+[16:03:38.073958] [Import] [error] (th=11536) Cannot find node: leg_front2.L
+[16:03:38.074028] [Import] [error] (th=11536) Cannot find node: leg_front2.R
+[16:03:38.074097] [Import] [error] (th=11536) Cannot find node: leg_front3.L
+[16:03:38.074170] [Import] [error] (th=11536) Cannot find node: leg_front3.R
+[16:03:38.074239] [Import] [error] (th=11536) Cannot find node: leg_rear1.L
+[16:03:38.074308] [Import] [error] (th=11536) Cannot find node: leg_rear1.R
+[16:03:38.074377] [Import] [error] (th=11536) Cannot find node: leg_rear2.L
+[16:03:38.074446] [Import] [error] (th=11536) Cannot find node: leg_rear2.R
+[16:03:38.074519] [Import] [error] (th=11536) Cannot find node: leg_rear3.L
+[16:03:38.074588] [Import] [error] (th=11536) Cannot find node: leg_rear3.R
+[16:03:38.074657] [Import] [error] (th=11536) Cannot find node: root
+[16:03:38.074726] [Import] [error] (th=11536) Cannot find node: shoulder.L
+[16:03:38.074796] [Import] [error] (th=11536) Cannot find node: shoulder.R
+[16:03:38.074865] [Import] [error] (th=11536) Cannot find node: tail
+[16:03:38.074900] [Import] [error] (th=11536) File's animations are incompatible with the selected MANU's node
+[16:04:54.756101] [Import] [info] (th=11536) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\03_Mantis\Mantis_walk_back.fbx
+[16:04:54.777180] [Import] [info] (th=11536) Imported scene tree:
+name: "RootNode"
+
+	name: "Mantis-0"
+	numMeshes: 1
+	 addr: "000001C723CE3060"
+	 name: "Mantis-0"
+	 numVertices: "11567"
+	 numFaces: "4168"
+	
+	
+	name: "Armature"
+	
+		name: "root"
+		
+			name: "body"
+			
+				name: "tail"
+				
+					name: "leg_front1.L"
+					
+						name: "leg_front2.L"
+						
+							name: "leg_front3.L"
+							
+					name: "leg_rear1.L"
+					
+						name: "leg_rear2.L"
+						
+							name: "leg_rear3.L"
+							
+					name: "leg_front1.R"
+					
+						name: "leg_front2.R"
+						
+							name: "leg_front3.R"
+							
+					name: "leg_rear1.R"
+					
+						name: "leg_rear2.R"
+						
+							name: "leg_rear3.R"
+							
+				name: "head"
+				
+				name: "shoulder.L"
+				
+					name: "arm.L"
+					
+						name: "claw.L"
+						
+				name: "shoulder.R"
+				
+					name: "arm.R"
+					
+						name: "claw.R"
+						
+
+[16:04:54.777227] [Import] [info] (th=11536) File loaded successfully
+[16:04:54.777268] [Import] [info] (th=11536) Meshes count: 1
+[16:04:54.777302] [Import] [info] (th=11536) Materials count: 1
+[16:27:33.505239] [Import] [info] (th=11536) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\03_Mantis\Mantis_jump_attack.fbx
+[16:27:33.527865] [Import] [info] (th=11536) Imported scene tree:
+name: "RootNode"
+
+	name: "Mantis-0"
+	numMeshes: 1
+	 addr: "000001C723CE2B10"
+	 name: "Mantis-0"
+	 numVertices: "11567"
+	 numFaces: "4168"
+	
+	
+	name: "Armature"
+	
+		name: "root"
+		
+			name: "body"
+			
+				name: "tail"
+				
+					name: "leg_front1.L"
+					
+						name: "leg_front2.L"
+						
+							name: "leg_front3.L"
+							
+					name: "leg_rear1.L"
+					
+						name: "leg_rear2.L"
+						
+							name: "leg_rear3.L"
+							
+					name: "leg_front1.R"
+					
+						name: "leg_front2.R"
+						
+							name: "leg_front3.R"
+							
+					name: "leg_rear1.R"
+					
+						name: "leg_rear2.R"
+						
+							name: "leg_rear3.R"
+							
+				name: "head"
+				
+				name: "shoulder.L"
+				
+					name: "arm.L"
+					
+						name: "claw.L"
+						
+				name: "shoulder.R"
+				
+					name: "arm.R"
+					
+						name: "claw.R"
+						
+
+[16:27:33.527912] [Import] [info] (th=11536) File loaded successfully
+[16:27:33.527947] [Import] [info] (th=11536) Meshes count: 1
+[16:27:33.528059] [Import] [info] (th=11536) Materials count: 1

@@ -1,0 +1,69 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "E578FAF5-70F3-43FB-9542-BEE4337BA7FE"
+            },
+            "name": "TurnOFF",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "timeline": {
+                "@class": "BaseComponentTimeline",
+                "timelineId": {
+                    "uuid": "0B6670CF-5201-43EA-82B2-DFD2F9622065"
+                }
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        -7.105427357601002e-15,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -7.748599983870008e-8,
+                        0.0,
+                        0.6499997973442078,
+                        0.0,
+                        0.0,
+                        0.6499998569488525,
+                        0.0,
+                        0.0,
+                        -0.6499998569488525,
+                        0.0,
+                        -7.748602826040951e-8,
+                        0.0,
+                        140.09547424316407,
+                        0.5035400390625,
+                        -2.6375347218776657e-12,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        }
+    }
+]

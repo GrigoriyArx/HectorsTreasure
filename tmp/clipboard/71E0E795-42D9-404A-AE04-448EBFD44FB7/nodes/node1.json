@@ -1,0 +1,84 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "C461D4F8-383A-451D-9DBA-5B6B6C55B3A2"
+            },
+            "name": "Wall_part1 3",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "B3236CE4-8637-4891-8E2B-04263646655F"
+                },
+                "static": true,
+                "shadowCast": true,
+                "shadowReceive": true
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "D695A78E-96FE-4F8E-A3E4-AF51767A08FF"
+                },
+                "mapsStates": 127
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -1.0,
+                        -8.74227694680485e-8,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920927533992654e-7,
+                        1.0,
+                        0.0,
+                        -8.742278367890322e-8,
+                        1.0,
+                        -1.1920927533992654e-7,
+                        0.0,
+                        40.11225128173828,
+                        5.631236553192139,
+                        6.671041965484619,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -1.0,
+                        -8.74227694680485e-8,
+                        0.0,
+                        0.0,
+                        0.0,
+                        -1.1920927533992654e-7,
+                        1.0,
+                        0.0,
+                        -8.742278367890322e-8,
+                        1.0,
+                        -1.1920927533992654e-7,
+                        0.0,
+                        133.21224975585938,
+                        10.331235885620118,
+                        4.471041202545166,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "defaultobject",
+                "importedName": "defaultobject",
+                "isBone": false
+            }
+        },
+        "asset_id": {
+            "uuid": "6382A983-F0CF-4EF3-8912-ABAF378761B6"
+        },
+        "is_asset_root": true,
+        "asset_name": "Ground-21wall2"
+    }
+]
