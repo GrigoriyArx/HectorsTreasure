@@ -1,0 +1,55 @@
+[09:23:16.064382] [Import] [info] (th=4220) Log level for 'Import' set to 'info'
+[09:23:16.064605] [Import] [info] (th=4220) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\ЖИРНОСТЬ\03_Mantis\Mantis_idle_to_walk_Back_to_forward.fbx
+[09:23:16.079339] [Import] [info] (th=4220) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "root"
+		
+			name: "body"
+			
+				name: "tail"
+				
+					name: "leg_front1.L"
+					
+						name: "leg_front2.L"
+						
+							name: "leg_front3.L"
+							
+					name: "leg_rear1.L"
+					
+						name: "leg_rear2.L"
+						
+							name: "leg_rear3.L"
+							
+					name: "leg_front1.R"
+					
+						name: "leg_front2.R"
+						
+							name: "leg_front3.R"
+							
+					name: "leg_rear1.R"
+					
+						name: "leg_rear2.R"
+						
+							name: "leg_rear3.R"
+							
+				name: "head"
+				
+				name: "shoulder.L"
+				
+					name: "arm.L"
+					
+						name: "claw.L"
+						
+				name: "shoulder.R"
+				
+					name: "arm.R"
+					
+						name: "claw.R"
+						
+
+[09:23:16.079498] [Import] [info] (th=4220) File loaded successfully
+[09:23:16.079597] [Import] [info] (th=4220) Meshes count: 0
+[09:23:16.079636] [Import] [info] (th=4220) Materials count: 0

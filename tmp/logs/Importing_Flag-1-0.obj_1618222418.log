@@ -1,0 +1,18 @@
+[13:13:38.765136] [Import] [info] (th=12444) Log level for 'Import' set to 'info'
+[13:13:38.765221] [Import] [info] (th=12444) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Stuff\Flag-1-0.obj
+[13:13:38.772036] [Import] [info] (th=12444) Imported scene tree:
+name: "Flag-1-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "00000170B75255C0"
+	 name: "defaultobject"
+	 numVertices: "302"
+	 numFaces: "110"
+	
+	
+
+[13:13:38.772077] [Import] [info] (th=12444) File loaded successfully
+[13:13:38.772111] [Import] [info] (th=12444) Meshes count: 1
+[13:13:38.772144] [Import] [info] (th=12444) Materials count: 2
+[13:13:38.772294] [Import] [warning] (th=12444) It seems that scene structure is different

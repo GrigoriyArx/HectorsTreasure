@@ -1,0 +1,52 @@
+[11:41:09.147230] [Import] [info] (th=17072) Log level for 'Import' set to 'info'
+[11:41:09.147316] [Import] [info] (th=17072) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Stuff\Flag-0.obj
+[11:41:09.155018] [Import] [info] (th=17072) Imported scene tree:
+name: "Flag-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000021DED5EA5A0"
+	 name: "defaultobject"
+	 numVertices: "154"
+	 numFaces: "60"
+	
+	
+
+[11:41:09.155057] [Import] [info] (th=17072) File loaded successfully
+[11:41:09.155090] [Import] [info] (th=17072) Meshes count: 1
+[11:41:09.155123] [Import] [info] (th=17072) Materials count: 2
+[11:41:09.155459] [Import] [info] (th=17072) Textures count (imported): 1
+[11:41:26.115345] [Import] [info] (th=17072) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Stuff\Flag-1.obj
+[11:41:26.123762] [Import] [info] (th=17072) Imported scene tree:
+name: "Flag-1.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000021DED5EC580"
+	 name: "defaultobject"
+	 numVertices: "1070"
+	 numFaces: "412"
+	
+	
+
+[11:41:26.123857] [Import] [info] (th=17072) File loaded successfully
+[11:41:26.123937] [Import] [info] (th=17072) Meshes count: 1
+[11:41:26.124015] [Import] [info] (th=17072) Materials count: 2
+[11:41:26.124266] [Import] [info] (th=17072) Textures count (imported): 1
+[12:42:59.665378] [Import] [info] (th=17072) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Grounds\Ground_Part2\Ground-11-1.obj
+[12:42:59.814639] [Import] [info] (th=17072) Imported scene tree:
+name: "Ground-11-1.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "0000021DED5EDAC0"
+	 name: "defaultobject"
+	 numVertices: "68701"
+	 numFaces: "28512"
+	
+	
+
+[12:42:59.814708] [Import] [info] (th=17072) File loaded successfully
+[12:42:59.814766] [Import] [info] (th=17072) Meshes count: 1
+[12:42:59.814826] [Import] [info] (th=17072) Materials count: 2
+[12:42:59.815119] [Import] [warning] (th=17072) It seems that scene structure is different
