@@ -77,3 +77,5 @@
 [12:45:46.674159] [SceneFactory] [info] (th=17072) Plane is created: id: 1F36E878-6548-4B1F-BF22-665C4797C878
 [13:01:24.017249] [SceneFactory] [info] (th=12444) Log level for 'SceneFactory' set to 'info'
 [10:28:21.224984] [SceneFactory] [info] (th=18108) Log level for 'SceneFactory' set to 'info'
+[09:52:57.985760] [SceneFactory] [info] (th=28300) Log level for 'SceneFactory' set to 'info'
+[09:52:57.992982] [SceneFactory] [info] (th=28300) Plane is created: id: BB32A365-C0A9-4E9D-AEE7-3FD7E881FF82

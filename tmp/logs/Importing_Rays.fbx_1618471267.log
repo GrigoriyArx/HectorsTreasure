@@ -1,0 +1,35 @@
+[10:21:07.854505] [Import] [info] (th=28300) Log level for 'Import' set to 'info'
+[10:21:07.854617] [Import] [info] (th=28300) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Rays.fbx
+[10:21:07.950520] [Import] [info] (th=28300) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane"
+	numMeshes: 1
+	 addr: "00000180A1F0E240"
+	 name: "Plane.002"
+	 numVertices: "48"
+	 numFaces: "24"
+	
+	
+
+[10:21:07.950567] [Import] [info] (th=28300) File loaded successfully
+[10:21:07.950602] [Import] [info] (th=28300) Meshes count: 1
+[10:21:07.950711] [Import] [info] (th=28300) Materials count: 1
+[10:21:07.966149] [Import] [info] (th=28300) Textures count (imported): 0
+[11:08:20.150650] [Import] [info] (th=28300) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Stuff\Win-0.obj
+[11:08:20.168833] [Import] [info] (th=28300) Imported scene tree:
+name: "Win-0.obj"
+
+	name: "defaultobject"
+	numMeshes: 1
+	 addr: "000001810BD36570"
+	 name: "defaultobject"
+	 numVertices: "1639"
+	 numFaces: "636"
+	
+	
+
+[11:08:20.168876] [Import] [info] (th=28300) File loaded successfully
+[11:08:20.168910] [Import] [info] (th=28300) Meshes count: 1
+[11:08:20.168943] [Import] [info] (th=28300) Materials count: 2
+[11:08:20.169204] [Import] [info] (th=28300) Textures count (imported): 1
