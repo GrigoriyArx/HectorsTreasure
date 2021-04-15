@@ -79,3 +79,7 @@
 [10:28:21.224984] [SceneFactory] [info] (th=18108) Log level for 'SceneFactory' set to 'info'
 [09:52:57.985760] [SceneFactory] [info] (th=28300) Log level for 'SceneFactory' set to 'info'
 [09:52:57.992982] [SceneFactory] [info] (th=28300) Plane is created: id: BB32A365-C0A9-4E9D-AEE7-3FD7E881FF82
+[15:34:27.886702] [SceneFactory] [info] (th=20692) Log level for 'SceneFactory' set to 'info'
+[15:34:27.957753] [SceneFactory] [info] (th=20692) AudioSource is created: id: E694F603-DBCB-429A-A691-DECA86701B33
+[16:20:05.104158] [SceneFactory] [info] (th=20692) AudioSource is created: id: 9D7A2C9A-5F62-45DF-BC37-6D6C516F7B24
+[16:21:41.459449] [SceneFactory] [info] (th=20692) AudioSource is created: id: 7C51D22F-85C5-4F4B-B0A6-7513C9F6DDA3
