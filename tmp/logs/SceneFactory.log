@@ -83,3 +83,5 @@
 [15:34:27.957753] [SceneFactory] [info] (th=20692) AudioSource is created: id: E694F603-DBCB-429A-A691-DECA86701B33
 [16:20:05.104158] [SceneFactory] [info] (th=20692) AudioSource is created: id: 9D7A2C9A-5F62-45DF-BC37-6D6C516F7B24
 [16:21:41.459449] [SceneFactory] [info] (th=20692) AudioSource is created: id: 7C51D22F-85C5-4F4B-B0A6-7513C9F6DDA3
+[17:40:02.224309] [SceneFactory] [info] (th=11480) Log level for 'SceneFactory' set to 'info'
+[17:40:02.224359] [SceneFactory] [info] (th=11480) AudioSource is created: id: 43D4B9DF-BDD7-4429-808B-0B3923E814A9
