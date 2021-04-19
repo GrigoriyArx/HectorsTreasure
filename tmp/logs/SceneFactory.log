@@ -87,3 +87,4 @@
 [10:40:48.862241] [SceneFactory] [info] (th=2992) Log level for 'SceneFactory' set to 'info'
 [10:40:48.862315] [SceneFactory] [info] (th=2992) Light is created: id: 4869E878-9518-4B98-84DE-BC30F0534EA7
 [10:40:58.151340] [SceneFactory] [info] (th=2992) AudioSource is created: id: 8D5D99D6-D0BA-4CA8-AAEB-FAA94A8A4E0C
+[12:16:07.778940] [SceneFactory] [info] (th=9624) Log level for 'SceneFactory' set to 'info'
