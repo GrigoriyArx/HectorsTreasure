@@ -1,0 +1,18 @@
+[12:45:21.938718] [Import] [info] (th=3712) Log level for 'Import' set to 'info'
+[12:45:21.951947] [Import] [info] (th=3712) Importing from E:\!_WORK\GAMEdev\Manu\VOXEL\MY_Parts\Mantis_stars.fbx
+[12:45:22.067828] [Import] [info] (th=3712) Imported scene tree:
+name: "RootNode"
+
+	name: "Cube"
+	numMeshes: 1
+	 addr: "000001CD33F46C50"
+	 name: "Cube.001"
+	 numVertices: "120"
+	 numFaces: "60"
+	
+	
+
+[12:45:22.067880] [Import] [info] (th=3712) File loaded successfully
+[12:45:22.067922] [Import] [info] (th=3712) Meshes count: 1
+[12:45:22.067961] [Import] [info] (th=3712) Materials count: 1
+[12:45:22.077851] [Import] [info] (th=3712) Textures count (imported): 0
